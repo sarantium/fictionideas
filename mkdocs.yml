@@ -1,0 +1,31 @@
+site_name: Fiction Ideas
+site_url: https://www.fictionideas.com/
+site_description: Product Ideas from Fiction
+site_author: Ashvin
+
+theme:
+  name: material
+  icon:
+    logo: material/view-grid-plus
+  favicon: assets/view-grid-plus-outline-dark.png
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+
+nav:
+  - Home: README.md
+  - How It Works: howitworks.md
+  - Ideas:
+      - GlimmerCraft: 1.md
+
+copyright: Copyright &copy; 2023-2024 Ashvin Parameswaran
