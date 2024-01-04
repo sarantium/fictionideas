@@ -22,10 +22,21 @@ theme:
         icon: material/lightbulb-outline
         name: Switch to light mode
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 nav:
   - Home: README.md
   - How It Works: howitworks.md
   - Ideas:
       - GlimmerCraft: 1.md
+      - ChronoCuisine: 2.md
 
 copyright: Copyright &copy; 2023-2024 Ashvin Parameswaran
+
+extra:
+  social:
+    - icon: material/alpha-k-circle-outline
+      link: https://ashvin.au
