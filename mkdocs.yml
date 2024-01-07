@@ -26,6 +26,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - md_in_html
 
 copyright: Copyright &copy; 2023-2024 Ashvin Parameswaran
 
@@ -41,3 +42,7 @@ nav:
       - GlimmerCraft: 1.md
       - ChronoCuisine: 2.md
       - WhimsiQuill: 3.md
+      - LustraGem: 4.md
+      - Glintroam Odyssey Tours: 5.md
+      - SteamCraft Innovations: 6.md
+      - Mystique & Masquerade: 7.md
