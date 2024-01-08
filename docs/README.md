@@ -1,5 +1,6 @@
 <p align="center">
   <a><img src="assets\home.png" alt="Fiction Ideas"></a>
 </p>
-
-Business and Product Ideas from Fiction
+<p align="center">
+    <em><b>The Rich Lives of Imaginary Entrepreneurs</b></em>
+</p>
