@@ -1,6 +1,21 @@
 ![How It Works](assets/howitworks_1.png)
 
+??? example "Principles for Creativity"
+
+    1. Create more ideas to make your ideas more creative
+    2. Use other people's tools until you can't
+    3. Try interesting things
+
 ## Step 1 : Prompts
+
+Prompts are at the heart of LLM creativity. With trial and error, I created the following sequence of prompts that consistently generates a variety of imaginary businesses and products.
+
+- Prompt 1 : Trisociation Prompt
+- Prompt 2 : Character Generation Prompt
+- Prompt 3 : Business/Product Idea-on-a-Page Prompt
+- Prompt 4 : Product Image Prompt
+- Optional Prompt 5 : Music Prompt ([Aqua Tents](10.md))
+- Optional Prompt 6 : Animation Prompt [Whispering Gardens](12.md)
 
 I started content creation by writing one prompt, entering it into ChatGPT 4 and almost immediately feeling embarrassed about how far the output fell short of the vision I had built in my head. Iterating on the prompt manually, and asking ChatGPT to refine the prompt, slowly got it to a state I was more comfortable with. In the end, after about 10 days of playing around with different words and formats, I managed to get a more or less consistently interesting idea on a page.
 
