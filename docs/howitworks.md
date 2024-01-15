@@ -1,10 +1,14 @@
-![How It Works](assets/howitworks_2.png)
+![How It Works](assets/how_it_works_2.png)
 
 Everyday creativity is a numbers game: **more ideas leads to more good ideas**. Generative AI is really good at quickly creating alot of novel ideas for practical business situations.
 
 For content creation of this type, Large Multimodal Models (LMMs) go beyond mimcry of training data to synthesise new and interesting outputs faster - and often better - than the average human.
 
 ## What we know
+
+## What we don't know
+
+## Bootstrapping creativity
 
 ## Sources I draw from
 
