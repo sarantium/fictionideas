@@ -1,4 +1,58 @@
-![How It Works](assets/howitworks_1.png)
+![How It Works](assets/howitworks_2.png)
+
+Everyday creativity is a numbers game: **more ideas leads to more good ideas**. Generative AI is really good at quickly creating alot of novel ideas for practical business situations.
+
+For content creation of this type, Large Multimodal Models (LMMs) go beyond mimcry of training data to synthesise new and interesting outputs faster - and often better - than the average human.
+
+## What we know
+
+## Sources I draw from
+
+1. https://www.oneusefulthing.org/p/automating-creativity - important blogpost with alot of summaries
+2. https://arxiv.org/abs/2303.12003 - Arxiv paper referenced by the alternate uses test of creativity mentioned in the blog
+3. https://www.sciencedirect.com/journal/journal-of-creativity/special-issue/10F0ZRJ0KB7 - Entire issue of journal f creativity with a specific article on torrance tests
+4. https://www.sciencedirect.com/science/article/pii/S2713374523000249 - Specific article referenced above
+5. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526071 - famous one on idea generation plus earlier work by girotra
+6. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4533642 - more idea generation
+7. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4535536 - short story prompting
+8. https://medium.com/aimonks/generative-ai-can-ideate-harder-bdd9e37a01d8 - blog post related to creativity
+9. https://www.inoreader.com/article/3a9c6e74ffd3ff5c-how-generative-ai-can-help-businesses-with-unimaginable-solutions - more idea generation 10.https://www.goodreads.com/author/quotes/52938.Linus_Pauling
+
+## Article Summaries
+
+## Research
+
+often helpful. Crucially, they not only generate more ideas but often better ideas than humans can.
+
+Despite skepticisim about the limits of AI on
+
+how creative AI really is, or how much originality is involved,
+
+hallucination is creativity.
+
+a specific kind of everyday creativity : mass idea generation that combines
+
+The book _Art & Fear_ relates a pottery anecdote that perfectly describes this sentiment:
+
+??? example "Quantity and quality"
+
+    _The ceramics teacher announced on opening day that he was dividing the class into two groups. All those on the left side of the studio, he said, would be graded solely on the quantity of work they produced, all those on the right solely on its quality.
+
+    His procedure was simple: on the final day of class he would bring in his bathroom scales and weigh the work of the "quantity" group: fifty pounds of pots rated an "A", forty pounds a "B", and so on. Those being graded on "quality", however, needed to produce only one pot — albeit a perfect one — to get an "A".
+
+    Well, came grading time and a curious fact emerged: the works of highest quality were all produced by the group being graded for quantity.
+
+    It seems that while the "quantity" group was busily churning out piles of work — and learning from their mistakes — the "quality" group had sat theorizing about perfection, and in the end had little more to show for their efforts than grandiose theories and a pile of dead clay._
+
+![Art & Fear](assets/how_it_works_3.png)
+
+The best way to have good ideas is to have lots of ideas.
+
+1. Hallucination is creativity.
+   a. This fact alone signals that generative AI can express novel ideas.
+   b. Intended creativity is some
+
+Creativity is the expression of novelty in some way.
 
 ??? example "Principles for Creativity"
 
