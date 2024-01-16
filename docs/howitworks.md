@@ -1,14 +1,34 @@
 ![How It Works](assets/how_it_works_2.png)
 
-Everyday creativity is a numbers game: **more ideas leads to more good ideas**. Generative AI is really good at quickly creating alot of novel ideas for practical business situations.
+Everyday creativity is a numbers game in which **the more ideas we generate the more good ideas we'll have**. This happens often in daily activities - like trying new recipes with leftovers, making handmade gifts, or rearranging a desk for better utility.
 
-For content creation of this type, Large Multimodal Models (LMMs) go beyond mimcry of training data to synthesise new and interesting outputs faster - and often better - than the average human.
+Even though these innovations are understated, happening in the privacy of our homes and personal spaces, they are not routine. Improvised solutions like these are clear expressions of ingenuity that make our lives better in small but meaningful ways.
 
 ## What we know
 
+Large Multimodal Models (LMMs) are very good at generating ideas for everyday business situations. These ideas aren't just copied from what they've been taught; they combine elements to create new solutions faster - and often better - than humans.
+
+### Speed
+
+LMMs are unimaginably faster than humans at coming up with ideas. Research estimates of velocity range from 132 to 800 ideas generated per hour by LMMs for short sentence outputs.
+
+Humans cannot match this pace. As the output format gets longer (paragraph, page) or more multimodal (image, audio, video), the disparity between humans and machine performance gets exponentially larger.
+
+### Cost
+
+- cheaper; having said that there are subsidies going on but countering there are edge devices and sunk costs once past training.
+
+### Quality
+
 ## What we don't know
 
+## Imaginary Worlds
+
 ## Bootstrapping creativity
+
+### # 1 - 10
+
+### # 10 - 20
 
 ## Sources I draw from
 
