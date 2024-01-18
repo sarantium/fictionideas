@@ -10,15 +10,61 @@ Large Multimodal Models (LMMs) are very good at generating ideas for everyday bu
 
 ### Speed
 
-LMMs are unimaginably faster than humans at coming up with ideas. Research estimates of velocity range from 132 to 800 ideas generated per hour by LMMs for short sentence outputs.
+LMMs are unimaginably faster than humans at coming up with ideas. Research estimates of velocity range from 800 ideas generated per hour<sup>[1](https://dx.doi.org/10.2139/ssrn.4526071)</sup> for short sentence outputs to 132 ideas generated per hour<sup>[2](https://dx.doi.org/10.2139/ssrn.4533642)</sup> for short paragraph outputs.
 
-Humans cannot match this pace. As the output format gets longer (paragraph, page) or more multimodal (image, audio, video), the disparity between humans and machine performance gets exponentially larger.
+Humans cannot match this pace. We need breaks, can experience creative blocks, and have a limited capacity for continuous creative output.
+
+As the output format gets longer (page, document) or more multimodal (image, audio, video), the disparity between humans and machine performance gets exponentially larger.
 
 ### Cost
 
-- cheaper; having said that there are subsidies going on but countering there are edge devices and sunk costs once past training.
+LMMs also make idea generation cheaper. Across 730 ideas generated as short text paragraphs, the average API cost per idea was estimated at $0.037 and the average time to generate each idea was estimated at 27.2 seconds<sup>[3](https://dx.doi.org/10.2139/ssrn.4533642)</sup>.
+
+Extrapolating linearly leads to the table below:
+
+| Number of Ideas | Time Required | Cost ($)  |
+| --------------- | ------------- | --------- |
+| 1               | 27.2 seconds  | 0.037     |
+| 10              | 4.5 minutes   | 0.37      |
+| 100             | 45.3 minutes  | 3.70      |
+| 1,000           | 7.6 hours     | 37.00     |
+| 10,000          | 3.1 days      | 370.00    |
+| 100,000         | 31.5 days     | 3,700.00  |
+| 1,000,000       | 314.8 days    | 37,000.00 |
+
+Visualising this in a chart we see that LMMs can generate 1000 ideas in a single working day for a cost of $37, and 10,000 ideas in just over three days for a cost of $370.
+
+![Chart 1](assets/how_it_works_4.png)
+
+We also see that at the top end LMMs can generate 100,000 ideas in about a month for $3,700 and 1,000,000 ideas in less than a year for $37,000.
+
+![Chart 2](assets/how_it_works_5.png)
+
+AI is more affordable whether we need a few ideas or thousands. Paying comparatively higher labour costs - annual staff salaries, hourly rates for contractors and consultants, or additional team infrastructure at scale - make human-driven idea generation inherently more expensive.
+
+At the extreme, producing a million creative ideas is impossible even for large, well-funded human teams of experts, a barrier AI can now overcome.
+
+??? danger "Caution"
+
+    There are many limits to the back-of-the-envelope calculations above which completely ignore additional implementation costs, savings and complexities (devops costs, capital expenditure, API limits, parallel processing, externalities, subsidised usage) of using AI to generate ideas.
+
+    We are also so early in the space that only a few studies are documenting this specific information, making it unclear how reliable and replicable these cost structures would be within a larger experiment sample size.
+
+    **TL;DR take everything presented around costs with a healthy dose of skepticism.**
 
 ### Quality
+
+> “Based on the research, not only are the latest forms of AI generating large numbers of ideas (fluency) and different types, variations, and categories of ideas (flexibility), they are, for the first time, generating new, unique, and unexpected ideas (originality), performing in the top percentile for original thinking.<sup>[4](https://doi.org/10.1016/j.yjoc.2023.100065)</sup>"
+
+Most people believe that even if AI is creative, it isn't as good as humans. Things are changing especially for everyday business and product ideas.
+
+GPT-4:
+
+- outperforms 91% of human participants on the Alternative Uses Test that requires the generation of multiple original uses for five everyday objects (pants, ball, tire, fork, toothbrush).
+- matches or exceeds 99% of human participants in originality on the Torrance Tests of creative thinking.
+- dominates measures of purchase intent with 35 of the top 40 ideas from a pool of 400 as determined by human evaluators
+
+For a long time, the kryptonite of AI is that it is not creative, or even where it is, it is not as creative as humans. This hypothesis is starting to be challenged. It does not matter if AI is faster and cheaper at generating ideas if those ideas don't meet some threshold standard of creativity.
 
 ## What we don't know
 
