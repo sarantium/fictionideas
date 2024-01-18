@@ -56,7 +56,7 @@ At the extreme, producing a million creative ideas is impossible even for large,
 
 > “Based on the research, not only are the latest forms of AI generating large numbers of ideas (fluency) and different types, variations, and categories of ideas (flexibility), they are, for the first time, generating new, unique, and unexpected ideas (originality), performing in the top percentile for original thinking.<sup>[4](https://doi.org/10.1016/j.yjoc.2023.100065)</sup>"
 
-Most people believe that even if AI is creative, it isn't as good as humans. Things are changing especially for everyday business and product ideas.
+Most people believe that even if AI is creative, it isn't as good as humans. Things are changing, especially for everyday business and product ideas.
 
 GPT-4:
 
