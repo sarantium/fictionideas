@@ -14,7 +14,7 @@ LMMs are unimaginably faster than humans at coming up with ideas. Research estim
 
 Humans cannot match this pace. We need breaks, can experience creative blocks, and have a limited capacity for continuous creative output.
 
-As the output format gets longer (page, document) or more multimodal (image, audio, video), the disparity between humans and machine performance gets exponentially larger.
+As the output format gets longer (page, document) or more multimodal (image, audio, video), the disparity between human and machine performance gets exponentially larger.
 
 ### Cost
 
@@ -65,6 +65,13 @@ GPT-4:
 - dominates measures of purchase intent with 35 of the top 40 ideas from a pool of 400 as determined by human evaluators
 
 For a long time, the kryptonite of AI is that it is not creative, or even where it is, it is not as creative as humans. This hypothesis is starting to be challenged. It does not matter if AI is faster and cheaper at generating ideas if those ideas don't meet some threshold standard of creativity.
+
+## Studies I need to read soon
+
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4663382
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4673875
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686415
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4676053
 
 ## What we don't know
 
