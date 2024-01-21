@@ -40,9 +40,9 @@ We also see that at the top end LMMs can generate 100,000 ideas in about a month
 
 ![Chart 2](assets/how_it_works_5.png)
 
-AI is more affordable whether we need a few ideas or thousands. Paying comparatively higher labour costs - annual staff salaries, hourly rates for contractors and consultants, or additional team infrastructure at scale - make human-driven idea generation inherently more expensive.
+AI is more affordable whether we need a few ideas or thousands, short ideas or long ones. Paying comparatively higher labour costs - annual staff salaries, hourly rates for contractors and consultants, or additional team infrastructure at scale - make human-driven idea generation inherently more expensive.
 
-At the extreme, producing a million creative ideas is impossible even for large, well-funded human teams of experts, a barrier AI can now overcome.
+At the extreme, producing a million creative ideas quickly is impossible even for large, well-funded human teams of experts, a barrier AI can now overcome.
 
 ??? danger "Caution"
 
