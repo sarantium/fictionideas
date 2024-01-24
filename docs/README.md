@@ -9,4 +9,6 @@
 
     Every idea on this site is a **creativity experiment** built entirely with **generative AI**. I explore the **boundaries and techniques of innovation** using increasingly sophisticated **models and pipelines** applied to **fictional worlds**.
 
-    The process I use is explained in **[How it Works](howitworks.md)** and you can start browsing the ideas themselves from the sidebar. Start with a **[time salad](2.md)**, lie in an **[ocean tent](10.md)** or unfold an **[origami flower](12.md)**.
+    The process I use is explained in **[How it Works](howitworks.md)** and you can start browsing the ideas from the sidebar. Start with a **[time salad](2.md)**, lie in an **[ocean tent](10.md)** or unfold an **[origami flower](12.md)**.
+
+    Or maybe you prefer to relax with **[light therapy](18.md)** and grab a **[chilled beverage](19.md)**while watchingh an **[apocalyptic ride](21.md)** or **[interstellar intrigue](22.md)** unfold.
