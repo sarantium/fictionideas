@@ -28,6 +28,10 @@ markdown_extensions:
   - pymdownx.superfences
   - md_in_html
 
+plugins:
+  - mkdocs-jupyter:
+      ignore_h1_titles: True
+
 copyright: Copyright &copy; 2023-2024 Ashvin Parameswaran
 
 extra:
@@ -38,6 +42,7 @@ extra:
 nav:
   - Home: README.md
   - How It Works: howitworks.md
+  - Evaluation: evaluation.ipynb
   - Ideas:
       - GlimmerCraft: 1.md
       - ChronoCuisine: 2.md
