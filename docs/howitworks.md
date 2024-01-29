@@ -46,7 +46,7 @@ At the extreme, producing a million creative ideas quickly is impossible even fo
 
 ??? danger "Caution"
 
-    There are many limits to the back-of-the-envelope calculations above which completely ignore additional implementation costs, savings and complexities (devops costs, capital expenditure, API limits, parallel processing, externalities, subsidised usage) of using AI to generate ideas.
+    There are many limits to the back-of-the-envelope calculations above which completely ignore additional implementation costs, savings and complexities (devops costs, capital expenditure, API limits, parallel processing, externalities, subsidised usage, varying output formats, varying output lengths, task type) of using AI to generate ideas.
 
     We are also so early in the space that only a few studies are documenting this specific information, making it unclear how reliable and replicable these cost structures would be within a larger experiment sample size.
 
@@ -54,7 +54,7 @@ At the extreme, producing a million creative ideas quickly is impossible even fo
 
 ### Quality
 
-> “Based on the research, not only are the latest forms of AI generating large numbers of ideas (fluency) and different types, variations, and categories of ideas (flexibility), they are, for the first time, generating new, unique, and unexpected ideas (originality), performing in the top percentile for original thinking.<sup>[4](https://doi.org/10.1016/j.yjoc.2023.100065)</sup>"
+> “Based on the research, not only are the latest forms of AI generating large numbers of ideas (fluency) and different types, variations, and categories of ideas (flexibility), they are, for the first time, generating new, unique, and unexpected ideas (originality), performing in the top percentile for original thinking."<sup>[4](https://doi.org/10.1016/j.yjoc.2023.100065)</sup>
 
 Most people believe that even if AI is creative, it isn't as good as humans. Things are changing, especially for everyday business and product ideas.
 
@@ -64,7 +64,100 @@ GPT-4:
 - matches or exceeds 99% of human participants in originality on the Torrance Tests of creative thinking.
 - dominates measures of purchase intent with 35 of the top 40 ideas from a pool of 400 as determined by human evaluators
 
-For a long time, the kryptonite of AI is that it is not creative, or even where it is, it is not as creative as humans. This hypothesis is starting to be challenged. It does not matter if AI is faster and cheaper at generating ideas if those ideas don't meet some threshold standard of creativity.
+The most creative humans still do better - but only slightly better - in flexible, original and novel idea generation than state of the art LMMs. This gap is rapidly narrowing just with improved prompts and pipelines [Some Evidence] without accounting for advances in retrieval augmented generation, model finetuning and transformer architecture.
+
+## Evaluation
+
+LMMs aren't just good at coming up with ideas; they're also getting better at deciding which ones are best. Thanks to their ability to scale, they can reframe creative limits as manageable search and retrieval problems.
+
+Instead of asking whether AI can be creative, we can more precisely investigate whether AI can effectively map and select ideas from business and product opportunity spaces.
+
+Think of it like this: if everyday creativity is a treasure map, AI is becoming an expert at not only drawing the map but also at picking out where the treasure is most likely to be.
+
+=> maybe talk about how it has been used so far in a table?? And which studies have used which?? ALso talk about limitations of human raters in latest ethan mollick study?
+
+### Metrics
+
+- idea exhaustion
+- summary metrics
+- creativity metrics that include CPSS
+-
+
+## Machine Users
+
+![Machine Users](assets/machine_users_2.png)
+
+A **machine user** is an AI or software entity that performs tasks within digital environments or interacts with humans. These entities can range from simple automated programs to complex systems capable of emulating human decision-making and interaction.
+
+Machine users are pivotal in today's digital landscape, serving a multitude of purposes across various industries. Their abilities span from executing repetitive tasks to engaging in dynamic, human-like interactions. Understanding the distinct types of machine users helps in harnessing their capabilities for improved efficiency, engagement, and innovation.
+
+The classification is based on:
+
+- **Decision Complexity**: Reflects the machine user's capability for making decisions, ranging from basic algorithm-driven choices to advanced, context-aware problem-solving.
+- **Relational Dynamics**: Represents the level of interaction the machine user has with its environment or with humans, from simple responses to complex, engaging conversations.
+
+### Quadrants
+
+**Quadrant I: Twins**
+
+These are advanced simulations of real-world systems or processes that can make complex decisions and interact dynamically with their environment.
+
+- _Healthcare Digital Twin_: Adapts treatment plans based on real-time health data.
+- _Smart City Digital Twin_: Manages urban environments by integrating diverse data sources.
+
+**Quadrant II: Avatars**
+
+Digital representations that interact with users or environments in a meaningful way but are limited in decision-making complexity.
+
+- _Virtual Customer Service Representative_: Guides customers through online retail stores.
+- _Educational Virtual Tutor_: Assists students on e-learning platforms.
+
+**Quadrant III: Bots**
+
+Software programs designed to perform automated tasks, usually repetitive and with minimal interaction.
+
+- _Chatbot for Hotel Bookings_: Manages room bookings and customer queries.
+- _Social Media Content Moderator Bot_: Flags inappropriate content based on set guidelines.
+
+**Quadrant IV: Agents**
+
+These systems perform complex tasks autonomously but with limited interaction, focusing on efficiency and execution.
+
+- _Algorithmic Trading Agent_: Executes stock trades based on market analysis.
+- _Autonomous Industrial Robot_: Performs complex tasks in manufacturing with minimal human interaction.
+
+### Classification
+
+In this section, we dive deeper into a few complex machine user examples to clarify their categorization:
+
+- **Autonomous Negotiating Car**: A self-driving car that negotiates with smart parking lots for space would be classified as a **Twin**, due to its high decision complexity in real-time and its high relational dynamics in engaging with the parking infrastructure.
+
+- **Self-Restocking Fridge**: A refrigerator that monitors inventory and orders groceries when supplies run low would fall under **Agents**. While it autonomously manages its inventory (high decision complexity), its interactions are limited to transactional ordering processes (low relational dynamics).
+
+- **AI Legal Advisor**: An AI that provides legal advice by analyzing case law and statutes would be an **Agent**. It requires a high level of decision complexity to interpret and apply legal principles but generally does not engage in complex interactions as its advice is typically delivered in a report format.
+
+- **Interactive Fictional Character**: In an immersive storytelling platform, this AI character interacts with users, making choices that influence the story. Its decision-making might appear complex, but it's primarily designed to emulate a character within a narrative context, categorizing it as an avatar.
+
+Understanding the capabilities and interactions of machine users is critical for businesses and developers as they integrate AI into their operations and products. This classification helps in strategizing the deployment of AI systems for optimal performance and user experience.
+
+#### Misclassification
+
+For a machine user to be classified as an **Avatar**, it must exhibit both role emulation and interactivity. Role emulation involves the machine user mimicking or representing a human role, behavior, or persona, often in a digital or virtual environment. Interactivity refers to the machine user's capability to engage in dynamic, two-way interactions, often resembling human-like conversations or social behaviors.
+
+- **Automated News Reader**: Imagine an AI that reads out news articles in a human-like voice. While it might seem like an avatar due to its human-like speech (role emulation), it lacks interactive capabilities. The AI does not engage in two-way communication; it simply performs a one-way broadcast of information. This absence of interactivity classifies it more accurately as a **Bot**, as it's primarily executing a defined, repetitive task without the dynamic engagement typical of avatars.
+
+- **Virtual Museum Guide**: Consider an AI that provides guided tours in a virtual museum. If this AI simply follows a predetermined path and script without engaging with visitors' questions or personalizing the tour based on visitor interactions, it would be an **Agent** rather than an Avatar. Despite emulating the role of a tour guide (role emulation), the lack of real-time, responsive interaction with visitors means it doesn't fully meet the criteria for an Avatar.
+
+Even when a process utilises advanced technologies like Large Language Models (LLMs), it can still be classified as a **Bot**. This classification hinges on the task's nature and the level of decision complexity and interactivity, rather than the sophistication of the technology used.
+
+- **Task Specificity**: If the primary role is executing predefined, often repetitive tasks such as data generation or answering standard queries, it aligns with the bot's characteristic functionality.
+- **Limited Interactivity**: Bots typically exhibit restricted interactive capabilities. A process using LLMs but not engaging in dynamic, responsive dialogues fits this category.
+
+- **Decision Scope**: The use of LLMs does not automatically imply complex decision-making. If decisions are based on set rules or parameters, despite the advanced nature of the technology, the process is akin to a bot's operation.
+
+**Example**: An LLM-driven chatbot for customer service, offering scripted responses to inquiries, demonstrates this concept. Despite its advanced underlying technology, its role in providing specific information without complex interactions or autonomous decision-making categorizes it as a "Bot."
+
+In essence, the application and function of the technology, rather than its inherent complexity, determine a machine user's classification.
 
 ## Studies I need to read soon
 
@@ -94,10 +187,13 @@ For a long time, the kryptonite of AI is that it is not creative, or even where 
 7. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4535536 - short story prompting
 8. https://medium.com/aimonks/generative-ai-can-ideate-harder-bdd9e37a01d8 - blog post related to creativity
 9. https://www.inoreader.com/article/3a9c6e74ffd3ff5c-how-generative-ai-can-help-businesses-with-unimaginable-solutions - more idea generation 10.https://www.goodreads.com/author/quotes/52938.Linus_Pauling
+10. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708466
 
 ## Article Summaries
 
 ## Research
+
+For a long time, the kryptonite of AI is that it is not creative, or even where it is, it is not as creative as humans. This hypothesis is starting to be challenged. It does not matter if AI is faster and cheaper at generating ideas if those ideas don't meet some threshold standard of creativity.
 
 often helpful. Crucially, they not only generate more ideas but often better ideas than humans can.
 
