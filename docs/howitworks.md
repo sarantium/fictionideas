@@ -66,6 +66,8 @@ GPT-4:
 
 The most creative humans still do better - but only slightly better - in flexible, original and novel idea generation than state of the art LMMs. This gap is rapidly narrowing just with improved prompts and pipelines [Some Evidence] without accounting for advances in retrieval augmented generation, model finetuning and transformer architecture.
 
+- techniques for improvement as a list.
+
 ## Evaluation
 
 LMMs aren't just good at coming up with ideas; they're also getting better at deciding which ones are best. Thanks to their ability to scale, they can reframe creative limits as manageable search and retrieval problems.
