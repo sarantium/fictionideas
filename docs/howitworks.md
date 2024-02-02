@@ -10,8 +10,7 @@ Large Multimodal Models (LMMs) are very good at generating ideas for everyday bu
 
 ### Speed
 
-LMMs are unimaginably faster than humans at coming up with ideas. Research estimates of velocity range from 800 ideas generated per hour<sup>[1](https://dx.doi.org/10.2139/ssrn.4526071)</sup> for short sentence outputs to 132 ideas generated per hour<sup>[2](https://dx.doi.org/10.2139/ssrn.4533642)</sup> for short paragraph outputs.
-
+LMMs are unimaginably faster than humans at coming up with ideas. Research estimates of velocity range from 800 ideas generated per hour<sup>[1](https://dx.doi.org/10.2139/ssrn.4526071)</sup> for short sentence outputs to 132 ideas generated per hour<sup>[2](https://dx.doi.org/10.2139/ssrn.4533642)</sup> for short paragraph outputs
 Humans cannot match this pace. We need breaks, can experience creative blocks, and have a limited capacity for continuous creative output.
 
 As the output format gets longer (page, document) or more multimodal (image, audio, video), the disparity between human and machine performance gets exponentially larger.
@@ -60,21 +59,23 @@ Most people believe that even if AI is creative, it isn't as good as humans. Thi
 
 GPT-4:
 
-- outperforms 91% of human participants on the Alternative Uses Test that requires the generation of multiple original uses for five everyday objects (pants, ball, tire, fork, toothbrush).
-- matches or exceeds 99% of human participants in originality on the Torrance Tests of creative thinking.
-- dominates measures of purchase intent with 35 of the top 40 ideas from a pool of 400 as determined by human evaluators
+- outperforms 91% of human participants on the Alternative Uses Test that requires the generation of multiple original uses for five everyday objects (pants, ball, tire, fork, toothbrush)<sup>[5](https://doi.org/10.48550/arXiv.2303.12003)</sup>.
+- matches or exceeds 99% of human participants in originality on the Torrance Tests of creative thinking<sup>[6](https://doi.org/10.1016/j.yjoc.2023.100065)</sup>.
+- dominates measures of purchase intent with 35 of the top 40 ideas from a pool of 400 as determined by human evaluators<sup>[7](https://dx.doi.org/10.2139/ssrn.4526071)</sup>
 
-The most creative humans still do better - but only slightly better - in flexible, original and novel idea generation than state of the art LMMs. This gap is rapidly narrowing just with improved prompts and pipelines [Some Evidence] without accounting for advances in retrieval augmented generation, model finetuning and transformer architecture.
+The most creative humans still do slightly better in flexible, original and novel idea generation than state of the art LMMs<sup>[8](https://dx.doi.org/10.2139/ssrn.4533642)</sup> <sup>[9](https://dx.doi.org/10.2139/ssrn.4535536)</sup> <sup>[10](https://doi.org/10.48550/arXiv.2309.14556)</sup> <sup>[11](https://doi.org/10.48550/arXiv.2310.08433)</sup>. But this gap is rapidly narrowing just with improved prompts, prompt frameworks and pipelines even without accounting for advances in retrieval augmented generation, model finetuning and transformer architecture<sup>[10](https://medium.com/aimonks/generative-ai-can-ideate-harder-bdd9e37a01d8)</sup> <sup>[11](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708466)</sup> <sup>[12](https://doi.org/10.48550/arXiv.2401.12491)</sup> .
 
 - techniques for improvement as a list.
 
+While research into everyday creativity keeps demonstrating quality improvements, even more surprising is that scientific studies are showing increasing promise for truly original discovery in math<sup>[5](https://doi.org/10.1038/s41586-023-06924-6)</sup> and chemistry<sup>[6](https://doi.org/10.1038/s41586-023-06792-0)</sup>.
+
+LMMs aren't just good at coming up with ideas; they're also coming up with better ideas _and_ getting better at deciding which ones are best. Automated evaluation, in which LMMs are both creator and assessor, is fast becoming the default way to assess task quality<sup>[12](https://hbr.org/2023/07/how-generative-ai-can-augment-human-creativity)</sup> <sup>[13](https://hbr.org/2023/11/use-genai-to-improve-scenario-planning)</sup>.
+
+Instead of asking whether AI can be creative, we can more precisely investigate whether AI can effectively map and select ideas from business and product opportunity spaces. Thanks to their ability to scale, LMMs can reframe creative limits as manageable search and retrieval problems across finite idea spaces.
+
+Think of it like this: if everyday creativity is a treasure map, AI is becoming an expert at not only drawing the map but also at picking out where the treasure is most likely to be. And like a rat learning shortcuts in a maze to find cheese faster, AI self-improves automatically, finding more direct paths to the treasure with each attempt.
+
 ## Evaluation
-
-LMMs aren't just good at coming up with ideas; they're also getting better at deciding which ones are best. Thanks to their ability to scale, they can reframe creative limits as manageable search and retrieval problems.
-
-Instead of asking whether AI can be creative, we can more precisely investigate whether AI can effectively map and select ideas from business and product opportunity spaces.
-
-Think of it like this: if everyday creativity is a treasure map, AI is becoming an expert at not only drawing the map but also at picking out where the treasure is most likely to be.
 
 => maybe talk about how it has been used so far in a table?? And which studies have used which?? ALso talk about limitations of human raters in latest ethan mollick study?
 
@@ -180,16 +181,18 @@ In essence, the application and function of the technology, rather than its inhe
 
 ## Sources I draw from
 
-1. https://www.oneusefulthing.org/p/automating-creativity - important blogpost with alot of summaries
+### Sources I've cited and can move on
+
 2. https://arxiv.org/abs/2303.12003 - Arxiv paper referenced by the alternate uses test of creativity mentioned in the blog
-3. https://www.sciencedirect.com/journal/journal-of-creativity/special-issue/10F0ZRJ0KB7 - Entire issue of journal f creativity with a specific article on torrance tests
-4. https://www.sciencedirect.com/science/article/pii/S2713374523000249 - Specific article referenced above
-5. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526071 - famous one on idea generation plus earlier work by girotra
-6. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4533642 - more idea generation
-7. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4535536 - short story prompting
-8. https://medium.com/aimonks/generative-ai-can-ideate-harder-bdd9e37a01d8 - blog post related to creativity
-9. https://www.inoreader.com/article/3a9c6e74ffd3ff5c-how-generative-ai-can-help-businesses-with-unimaginable-solutions - more idea generation 10.https://www.goodreads.com/author/quotes/52938.Linus_Pauling
-10. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708466
+3. https://www.sciencedirect.com/science/article/pii/S2713374523000249 - Specific article referenced above about torrance test outperformance
+4. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526071 - famous one on idea generation plus earlier work by girotra
+5. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4533642 - more idea generation
+6. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4535536 - short story prompting
+7. https://medium.com/aimonks/generative-ai-can-ideate-harder-bdd9e37a01d8 - blog post related to creativity
+8. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708466
+9. https://www.oneusefulthing.org/p/automating-creativity - important blogpost with alot of summaries
+10. https://www.inoreader.com/article/3a9c6e74ffd3ff5c-how-generative-ai-can-help-businesses-with-unimaginable-solutions - more idea generation 10.https://www.goodreads.com/author/quotes/52938.Linus_Pauling
+11. https://www.sciencedirect.com/journal/journal-of-creativity/special-issue/10F0ZRJ0KB7 - Entire issue of journal f creativity with a specific article on torrance tests
 
 ## Article Summaries
 
