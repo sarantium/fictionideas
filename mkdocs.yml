@@ -41,9 +41,10 @@ extra:
 
 nav:
   - Home: README.md
-  - How It Works: howitworks.md
-  - Evaluation: evaluation.ipynb
-  - Evaluation_1: evaluation_1.ipynb
+  - How It Works:
+      - Overview: howitworks.md
+      - Evaluation: evaluation.ipynb
+      - Evaluation_1: evaluation_1.ipynb
   - Ideas:
       - GlimmerCraft: 1.md
       - ChronoCuisine: 2.md
@@ -71,3 +72,4 @@ nav:
       - Twilight Grove: 24.md
       - Wisdom Keeper 🪞: 25.md
       - Seshatian Vault 🪞: 26.md
+  - Machine Users: machineusers.md
