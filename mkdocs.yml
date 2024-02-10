@@ -45,6 +45,8 @@ nav:
       - Overview: howitworks.md
       - Evaluation: evaluation.ipynb
       - Evaluation_1: evaluation_1.ipynb
+  - Experiments:
+      - Trisociations: experiment_1.ipynb
   - Ideas:
       - GlimmerCraft: 1.md
       - ChronoCuisine: 2.md
