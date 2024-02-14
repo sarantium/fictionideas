@@ -41,11 +41,11 @@ extra:
 
 nav:
   - Home: README.md
-  - How It Works:
-      - Overview: howitworks.md
+  - How It Works: howitworks.md
+  - Machine Users: machineusers.md
+  - Experiments:
       - Evaluation: evaluation.ipynb
       - Evaluation_1: evaluation_1.ipynb
-  - Experiments:
       - Trisociations: experiment_1.ipynb
   - Ideas:
       - GlimmerCraft: 1.md
@@ -74,4 +74,3 @@ nav:
       - Twilight Grove: 24.md
       - Wisdom Keeper 🪞: 25.md
       - Seshatian Vault 🪞: 26.md
-  - Machine Users: machineusers.md

@@ -71,3 +71,85 @@ Even when a process utilises advanced technologies like Large Language Models (L
 **Example**: An LLM-driven chatbot for customer service, offering scripted responses to inquiries, demonstrates this concept. Despite its advanced underlying technology, its role in providing specific information without complex interactions or autonomous decision-making categorizes it as a "Bot."
 
 In essence, the application and function of the technology, rather than its inherent complexity, determine a machine user's classification.
+
+## Education Strategy / Edtech
+
+![Education Market Map from A16z](assets/machine_users_4.jpg)
+
+Source : https://x.com/zachcohen25/status/1757497529523110191?s=20
+
+### 4 key features
+
+- Multimodal ability
+- New interfaces
+- Consumer first, B2B
+- Hyper-specialised products
+
+### Various companies in this space to consider
+
+Consumer First General companies worth looking into : https://gamma.app/docs/a16z-Consumer-Abundance-Agenda-ieotbnzbxj81biu?mode=doc
+
+| Company                                                                             | Description                           |
+| ----------------------------------------------------------------------------------- | ------------------------------------- |
+| [Sizzle AI](https://web.szl.ai/)                                                    | Multimodal, step by step tutor        |
+| [Curio](https://heycurio.com/)                                                      | Toys come to life                     |
+| [Magic School](https://www.magicschool.ai/)                                         | AI assistant for educators            |
+| [Iago](https://getiago.com/extension)                                               | Learn Japanese while watching anime   |
+| [Edsoma] (https://www.edsoma.com/)                                                  | AI reading assistant                  |
+| [Bed Fables] (https://www.bedfables.com/)                                           | Create children's stories with AI     |
+| [Matchbooks AI] (https://matchbooks.ai/)                                            | Create children's stories with AI     |
+| [StoryWizard AI](https://www.storywizard.ai/)                                       | Create children's stories with AI     |
+| [Koaluh](https://x.com/koalluh?s=20)                                                | Create children's stories with AI     |
+| [StoryBird AI](https://www.storybird.ai/)                                           | Create children's stories with AI     |
+| [Coco](https://coco.build/)                                                         | Co-create creative projects with kids |
+| [Pratika](https://praktika.ai/)                                                     | Language Learning                     |
+| [Lingostar](https://www.lingostar.ai/)                                              | Language Learning                     |
+| [Timekettle](https://www.timekettle.co/)                                            | Translation hardware                  |
+| [TalkPal](https://talkpal.ai/)                                                      | Language learning                     |
+| [Elsa](https://elsaspeak.com/en/)                                                   | Language learning                     |
+| [BoldVoice](https://apps.apple.com/us/app/boldvoice-pronunciation-app/id1567841142) | Language Learning                     |
+| [Yoodli](https://app.yoodli.ai/)                                                    | Language/Communication Learning       |
+| [Fluently](https://fluently.so/)                                                    | Multilingual writing                  |
+| [Stimuler](https://www.stimuler.tech/)                                              | Language/Communication learning       |
+| [Cramly](https://www.cramly.ai/)                                                    | Study tutor                           |
+| [Studdy](https://studdy.ai/)                                                        | Study tutor                           |
+| [Foondamate](https://foondamate.com/)                                               | Study tutor                           |
+| [Chiron](https://projectchiron.org/)                                                | Math education                        |
+| [Whiteboard AI](https://www.mywhiteboard.ai/)                                       | Study Aid                             |
+| [Gizmo](https://gizmo.ai/)                                                          | Study Aid                             |
+| [Wizdolia](https://www.wisdolia.com/)                                               | Study Aid                             |
+| [Caktus](https://caktus.ai/)                                                        | Study Aid                             |
+| [Kinnu](https://kinnu.xyz/)                                                         | Study Aid                             |
+| [Quizlet](https://quizlet.com/gb)                                                   | Study Aid                             |
+| [Elicit](https://elicit.com/)                                                       | Research                              |
+| [Humata](https://www.humata.ai/)                                                    | Research                              |
+| [Scite](https://scite.ai/)                                                          | Research                              |
+| [Genei](https://www.genei.io/)                                                      | Research                              |
+| [Cerelyze](https://x.com/humanloop/status/1693997168498237449?s=20)                 | Research                              |
+| [Typeset](https://www.typeset.com/)                                                 | Writing                               |
+| [MindGrasp](https://mindgrasp.ai/)                                                  | Study Aid                             |
+| [Wonders](https://readwonders.com/)                                                 | Research                              |
+| [Synaptiq](https://synaptiq.co/)                                                    | Study Aid for Medicine                |
+| [Typeset Science](https://typeset.io/)                                              | Research                              |
+| [Causaly](https://www.causaly.com/)                                                 | Research                              |
+| [Brisk Teaching](https://www.briskteaching.com/)                                    | Teaching Aid                          |
+| [ProfJim](https://profjim.com/)                                                     | Teaching Aid                          |
+| [Curipod](https://curipod.com/)                                                     | Teaching Aid                          |
+| [Class Companion](https://classcompanion.com/)                                      | Teaching Aid                          |
+| [Pressto](https://www.joinpressto.com/)                                             | Teaching Aid                          |
+| [Merlyn Mind](https://www.merlynmind.ai/)                                           | Teaching Agents                       |
+| [Nolej](https://nolej.io/)                                                          | Teaching Aid                          |
+| [Memorang](https://memorang.com/)                                                   | AI platform                           |
+| [Quench](https://quench.ai/)                                                        | Turn content into copilot             |
+| [Flintk12](https://www.flintk12.com/)                                               | School platform                       |
+| [SchoolAI](https://schoolai.com/)                                                   | School platform                       |
+| [Atypical](https://www.atypicalai.com/)                                             | No idea what this does                |
+| [Kira](https://kirasystems.com/)                                                    | Contract review                       |
+| [Vexis](https://vexisai.com/)                                                       | Grading                               |
+| [SparkStudio](https://sparkstudio.ai/)                                              | Language Learning                     |
+| [Edmachina](https://edmachina.com/)                                                 | Retention AI                          |
+| **I have a bunch of admissions edtech in Confluence**                               |                                       |
+|                                                                                     |                                       |
+|                                                                                     |                                       |
+|                                                                                     |                                       |
+|                                                                                     |                                       |
