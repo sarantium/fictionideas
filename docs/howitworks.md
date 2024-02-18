@@ -38,7 +38,7 @@ At the extreme, producing a million creative ideas quickly is impossible even fo
 
 ??? danger "Caution"
 
-    There are many limits to the back-of-the-envelope calculations above which completely ignore additional implementation costs, savings and complexities (devops costs, capital expenditure, API limits, parallel processing, externalities, subsidised usage, varying output formats, varying output lengths, task type) of using AI to generate ideas.
+    There are many limits to the back-of-the-envelope calculations above which completely ignore additional implementation costs, savings and complexities (devops costs, varying model types, open source models, capital expenditure, API limits, parallel processing, externalities, subsidised usage, varying output formats, varying output lengths, task type) of using AI to generate ideas.
 
     We are also so early in the space that only a few studies are documenting this specific information, making it unclear how reliable and replicable these cost structures would be within a larger experiment sample size.
 
@@ -56,9 +56,9 @@ GPT-4:
 - matches or exceeds 99% of human participants in originality on the Torrance Tests of creative thinking<sup>[6](https://doi.org/10.1016/j.yjoc.2023.100065)</sup>.
 - dominates measures of purchase intent with 35 of the top 40 ideas from a pool of 400 as determined by human evaluators<sup>[7](https://dx.doi.org/10.2139/ssrn.4526071)</sup>
 
-The most creative humans still do slightly better in flexible, original and novel idea generation than state of the art LMMs<sup>[8](https://dx.doi.org/10.2139/ssrn.4533642)</sup> <sup>[9](https://dx.doi.org/10.2139/ssrn.4535536)</sup> <sup>[10](https://doi.org/10.48550/arXiv.2309.14556)</sup> <sup>[11](https://doi.org/10.48550/arXiv.2310.08433)</sup>. But this gap is rapidly narrowing just with improved prompts, prompt frameworks and pipelines even without accounting for advances in retrieval augmented generation, model finetuning and transformer architecture<sup>[10](https://medium.com/aimonks/generative-ai-can-ideate-harder-bdd9e37a01d8)</sup> <sup>[11](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708466)</sup> <sup>[12](https://doi.org/10.48550/arXiv.2401.12491)</sup> .
+The most creative humans still do slightly better in flexible, original and novel idea generation than state of the art LMMs<sup>[8](https://dx.doi.org/10.2139/ssrn.4533642)</sup> <sup>[9](https://dx.doi.org/10.2139/ssrn.4535536)</sup> <sup>[10](https://doi.org/10.48550/arXiv.2309.14556)</sup> <sup>[11](https://doi.org/10.48550/arXiv.2310.08433)</sup>. But this gap is rapidly narrowing just with improved prompts, prompt frameworks and pipelines even without accounting for advances in retrieval augmented generation, multimodal reasoning, model finetuning and transformer architecture<sup>[10](https://medium.com/aimonks/generative-ai-can-ideate-harder-bdd9e37a01d8)</sup> <sup>[11](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4708466)</sup> <sup>[12](https://doi.org/10.48550/arXiv.2401.12491)</sup> .
 
-While research into everyday creativity keeps demonstrating quality improvements, even more surprising is that scientific studies are showing increasing promise for truly original discovery in math<sup>[5](https://doi.org/10.1038/s41586-023-06924-6)</sup> and chemistry<sup>[6](https://doi.org/10.1038/s41586-023-06792-0)</sup>.
+While research into everyday creativity keeps demonstrating quality improvements, even more surprising is that scientific studies are showing increasing promise for truly original discovery in math<sup>[5](https://doi.org/10.1038/s41586-023-06924-6)</sup> and chemistry<sup>[6](https://doi.org/10.1038/s41586-023-06792-0)</sup><sup>[7](https://doi.org/10.48550/arXiv.2402.08703)</sup>
 
 LMMs aren't just good at coming up with ideas; they're also coming up with better ideas _and_ getting better at deciding which ones are best. Automated evaluation, in which LMMs are both creator and assessor, is fast becoming the default way to assess task quality<sup>[12](https://hbr.org/2023/07/how-generative-ai-can-augment-human-creativity)</sup> <sup>[13](https://hbr.org/2023/11/use-genai-to-improve-scenario-planning)</sup>.
 
@@ -70,25 +70,21 @@ Think of it like this: if everyday creativity is a treasure map, AI is becoming 
 
 => maybe talk about how it has been used so far in a table?? And which studies have used which?? ALso talk about limitations of human raters in latest ethan mollick study?
 
-- idea exhaustion
+- idea exhaustion and homgenisation also see https://arxiv.org/abs/2402.01536
 - summary metrics
 - creativity metrics that include CPSS
--
-
-## Studies I need to read soon
-
-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4663382
-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4673875
-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686415
-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4676053
-
-## What we don't know
+- I do experiments or tinkerings.
+- cite/talk about this study on hallucination, taxonomy, evaluation and creativity (https://arxiv.org/abs/2402.06647)
 
 ## Imaginary Worlds
 
-## Bootstrapping creativity
+- bootstrapping creativity
+- starting with curiosity and creativity and narrowing the set of opportunity, solution and idea spaces down with reality is what I see as lacking in product management which has now soaked up the language of risk mitigation.
+- product sense is about intuition and disciplined application of loops and artifacts. But it isn't about slavish devotion to these artifacts over the outcomes. You have to try and throw something out there, take sensible steps but do the minimum. THe cult of lean is drowning in the process of lean just like the cult of agile is drowning in the bureaucracy of scrum.
 
-### Sources I've cited and can move on
+### Sources
+
+**I've cited and can move on**
 
 2. https://arxiv.org/abs/2303.12003 - Arxiv paper referenced by the alternate uses test of creativity mentioned in the blog
 3. https://www.sciencedirect.com/science/article/pii/S2713374523000249 - Specific article referenced above about torrance test outperformance
@@ -100,3 +96,10 @@ Think of it like this: if everyday creativity is a treasure map, AI is becoming 
 9. https://www.oneusefulthing.org/p/automating-creativity - important blogpost with alot of summaries
 10. https://www.inoreader.com/article/3a9c6e74ffd3ff5c-how-generative-ai-can-help-businesses-with-unimaginable-solutions - more idea generation 10.https://www.goodreads.com/author/quotes/52938.Linus_Pauling
 11. https://www.sciencedirect.com/journal/journal-of-creativity/special-issue/10F0ZRJ0KB7 - Entire issue of journal f creativity with a specific article on torrance tests
+
+**Studies I need to read soon**
+
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4663382
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4673875
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686415
+- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4676053

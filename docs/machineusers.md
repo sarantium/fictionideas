@@ -1,4 +1,6 @@
-![Machine Users](assets/machine_users_3.png)
+![Machine Users](assets/machine_users_4.png)
+
+- Avatars vs agents. Avatars create connections and are an investment, building a moat which induces switching costs that are not felt by impersonal transactional agents. I.e. an Avatar assistant is less replacable than an agent assistant
 
 A **machine user** is an AI or software entity that performs tasks within digital environments or interacts with humans. These entities can range from simple automated programs to complex systems capable of emulating human decision-making and interaction.
 
