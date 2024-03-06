@@ -78,9 +78,17 @@ Think of it like this: if everyday creativity is a treasure map, AI is becoming 
 
 ## Imaginary Worlds
 
-- bootstrapping creativity
-- starting with curiosity and creativity and narrowing the set of opportunity, solution and idea spaces down with reality is what I see as lacking in product management which has now soaked up the language of risk mitigation.
-- product sense is about intuition and disciplined application of loops and artifacts. But it isn't about slavish devotion to these artifacts over the outcomes. You have to try and throw something out there, take sensible steps but do the minimum. THe cult of lean is drowning in the process of lean just like the cult of agile is drowning in the bureaucracy of scrum.
+I’ve always been captivated by the intricacies of minor characters’ products and businesses in science fiction and fantasy writing. These subtle details, often mentioned in passing, add depth and realism to the imaginative worlds crafted by authors. They provide a glimpse into the everyday lives of characters and the economies that sustain their societies.
+
+From the bucolic Pelorous Fields district in China Mieville’s "Bas-Lag" novels to the quaint shops lining Diagon Alley in J.K. Rowling's "Harry Potter" series to the barista in Travis Baldtree's "Legends & Lattes", these fictional businesses spark curiosity and invite readers to explore the rich tapestries of these worlds.
+
+AI is a machine for crafting imaginary microworlds, ranging from deep to shallow and from closed to open, often transmedial and transauthorial in nature. These worlds can be counterfactual, like Philip K. Dick's "The Man in the High Castle," or entirely novel, like Lewis Carroll's "Alice in Wonderland."
+
+Imaginary microworlds serve as experimental playgrounds, allowing for quick and cheap exploration of ideas related to people, products, and businesses. They function as possibility databases for creating, merging, storing, and discarding concepts in a controlled environment for testing hypotheses and strategies, adding or removing constraints, and layering rich narratives as needed to understand complex systems and dynamics.
+
+Additionally, they offer a safe space for exploring alternative solutions to real-world problems. They allow us to simulate scenarios that are impossible or impractical to test in reality, providing valuable insights that can be applied to actual challenges.
+
+My focus on this site is to merge my interests and experiment with the **intersection of AI-generated science fiction and fantasy microworlds and product ideas**. I want to treat it primarily as a **testing ground for AI techniques that assist and automate creative and product management pipelines**. Secondarily, I aspire to **craft engaging and interactive microworlds** that demonstrate the utility of synthetic data layered with rich narratives in enhancing our understanding of commercial ideas and inspiring innovation in the real world.
 
 ### Sources
 
