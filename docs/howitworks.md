@@ -78,6 +78,8 @@ Think of it like this: if everyday creativity is a treasure map, AI is becoming 
 
 ## Imaginary Worlds
 
+![Microworlds](assets/microworlds_1.webp)
+
 I’ve always been captivated by the intricacies of minor characters’ products and businesses in science fiction and fantasy writing. These subtle details, often mentioned in passing, add depth and realism to the imaginative worlds crafted by authors. They provide a glimpse into the everyday lives of characters and the economies that sustain their societies.
 
 From the bucolic Pelorous Fields district in China Mieville’s "Bas-Lag" novels to the quaint shops lining Diagon Alley in J.K. Rowling's "Harry Potter" series to the barista in Travis Baldtree's "Legends & Lattes", these fictional businesses spark curiosity and invite readers to explore the rich tapestries of these worlds.

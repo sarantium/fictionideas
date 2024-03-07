@@ -1,5 +1,48 @@
 ![Machine Users](assets/machine_users_4.png)
 
+## Strategy and Mental Models that are useful
+
+### Vincent Koc
+
+![Industrial Revolution](assets/machine_users_5.png)
+![Allocation Economy](assets/machine_users_6.png)
+![More Industrial Revolution](assets/machine_users_7.png)
+![AI Product Wave](assets/machine_users_8.png)
+![Sexy and Boring Usecases](assets/machine_users_9.png)
+
+- above by vicent koc. I have the slides on my gmail via a youtube video.
+- he also notes that cost is not an issue as in 2023 alone costs have reduced by 35x for OpenAI
+- also notes an anecdote about how a generation is growing up (kid on a train telling ok Alexa stop this) expecting agentic/avataric assistants around to assist with everything. Modern tooling.
+
+- I was interested to explore Everett rogers diffusion of innovation theories
+- machine futures and emerging tech
+- one at the end creates a whole new revenue stream
+- coolest new one is generating the part of product including us on demand product is building itself as you goes
+
+### Chief Data Scientist at Domain
+
+![Current state 1](assets/machine_users_10.png)
+![Current State 2](assets/machine_users_11.png)
+![Current State 3](assets/machine_users_12.png)
+![Current State 4](assets/machine_users_13.png)
+
+- this interaction for investment property took 1 minute
+- 16 intents captured in 60 seconds in 1 interaction of 1 minute
+- what about businesses that only have access to one customer they can now leverage ai
+- brand is tied to transparency and safety
+- a new industry is going to be formed around AI safety like cybersecurity
+
+### AI Jason from relevance
+
+![Agents 1](assets/machine_users_14.png)
+![Agents 2](assets/machine_users_15.png)
+![Agents 3](assets/machine_users_16.png)
+![Agents 4](assets/machine_users_17.png)
+
+- AI Agents change task unit economy
+
+## Various things
+
 - Avatars vs agents. Avatars create connections and are an investment, building a moat which induces switching costs that are not felt by impersonal transactional agents. I.e. an Avatar assistant is less replacable than an agent assistant
 
 A **machine user** is an AI or software entity that performs tasks within digital environments or interacts with humans. These entities can range from simple automated programs to complex systems capable of emulating human decision-making and interaction.
