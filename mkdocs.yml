@@ -41,13 +41,14 @@ extra:
 
 nav:
   - Home: README.md
-  - How It Works: howitworks.md
   - Machine Users: machineusers.md
-  - Experiments:
+  - Product Management:
+      - Creativity: creativity.md
+      - Concepts: concepts.md
       - Evaluation: evaluation.ipynb
       - Evaluation_1: evaluation_1.ipynb
       - Trisociations: experiment_1.ipynb
-  - Ideas:
+  - Stories:
       - GlimmerCraft: 1.md
       - ChronoCuisine: 2.md
       - WhimsiQuill: 3.md

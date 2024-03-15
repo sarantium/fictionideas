@@ -1,5 +1,15 @@
 ![Machine Users](assets/machine_users_4.png)
 
+##
+
+Maybe I can start with a collection of **predictions** then base my view on that?
+
+THen I can move on to **examples**
+
+## Marvin Minsky Article on AI steps
+
+https://courses.csail.mit.edu/6.803/pdf/steps.pdf
+
 ## Strategy and Mental Models that are useful
 
 ### Vincent Koc
@@ -40,6 +50,11 @@
 ![Agents 4](assets/machine_users_17.png)
 
 - AI Agents change task unit economy
+
+## AI Design Patterns
+
+[Patterns 1](https://medium.com/towards-data-science/generative-ai-design-patterns-a-comprehensive-guide-41425a40d7d0)
+[Patterns 2](https://tomtunguz.com/ai-design-patterns/)
 
 ## Various things
 
@@ -194,7 +209,34 @@ Consumer First General companies worth looking into : https://gamma.app/docs/a16
 | [SparkStudio](https://sparkstudio.ai/)                                              | Language Learning                     |
 | [Edmachina](https://edmachina.com/)                                                 | Retention AI                          |
 | **I have a bunch of admissions edtech in Confluence**                               |                                       |
-|                                                                                     |                                       |
-|                                                                                     |                                       |
-|                                                                                     |                                       |
-|                                                                                     |                                       |
+| [Radius](https://radiusglobal.io/)                                                  | Admissions                            |
+| [Extra Edge](https://www.extraaedge.com/)                                           | Marketing and Admissions              |
+| [Enrol ML](https://www.enrollml.com/)                                               | Admissions                            |
+| [Admit Yogi](https://admityogi.com/)                                                | Admissions                            |
+| [College Advisor](https://www.collegeadvisor.com/)                                  | Admissions                            |
+
+## Employee substitute companies
+
+| Company                                           | Description        |
+| ------------------------------------------------- | ------------------ |
+| [Cognition Labs](https://www.cognition-labs.com/) | Software Engineer  |
+| [Version Lens](https://www.versionlens.com/)      | Product Manager    |
+| [Magic](https://magic.dev/)                       | Software Engineer  |
+| [TextQL](https://www.textql.com/)                 | Data Scientist     |
+| [Fluent](https://www.fluenthq.com/)               | Data Analyst       |
+| [Mindy](https://mindy.com/)                       | Chief of Staff     |
+| [Ema](https://www.ema.co/)                        | Universal Employee |
+| [Finpilot](https://www.finpilotai.com/)           | Financial Analyst  |
+| [Rogo](https://www.rogodata.com/)                 | Financial Analyst  |
+| [Norm AI](https://www.norm.ai/)                   | Compliance         |
+| [Arini](https://www.arini.ai/)                    | Receptionist       |
+| [Casca](https://www.cascading.ai/)                | Loan Officer       |
+| [Runnr](https://runnr.ai/)                        | Hotel Concierge    |
+| [Sevn](https://app.sevn.ai/)                      | Designer           |
+| [Sierra](https://sierra.ai/)                      | Customer Support   |
+| [Rasa](https://rasa.com/)                         | Customer Support   |
+|                                                   |                    |
+|                                                   |                    |
+|                                                   |                    |
+|                                                   |                    |
+|                                                   |                    |
