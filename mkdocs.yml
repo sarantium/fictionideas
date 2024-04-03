@@ -42,13 +42,13 @@ extra:
 nav:
   - Home: README.md
   - Machine Users: machineusers.md
-  - Product Management:
-      - Creativity: creativity.md
-      - Concepts: concepts.md
-      - Evaluation: evaluation.ipynb
-      - One Hour PM: onehourpm.md
-      - Evaluation_1: evaluation_1.ipynb
-      - Trisociations: experiment_1.ipynb
+  - Productivity: productivity.md
+  - Creativity: creativity.md
+  # - Concepts: concepts.md
+  # - Evaluation: evaluation.ipynb
+  # - One Hour PM: onehourpm.md
+  # - Evaluation_1: evaluation_1.ipynb
+  # - Trisociations: experiment_1.ipynb
   - Stories:
       - GlimmerCraft: 1.md
       - ChronoCuisine: 2.md

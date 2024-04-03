@@ -24,21 +24,21 @@ These documents are live and persistent artifacts with a dual purpose; they help
 
 ## Workflows
 
-The distinction between loops and documents is the difference between routes and maps. GIST is a specific execution loop against the map of design thinking documents.
+The distinction between loops and documents is the difference between execution routes and planning maps. I position design thinking documents as a parallel step stage and persistent set of artifacts in the GIST loop.
 
 ![Modified GIST](assets/designthinking_3.png)
 
-My approach treats documents as a specialised, parallel step stage in the GIST loop.
+My version of GIST is also a specific instance of the generic workflow class. Workflows combine loops and documents to guide action from concept to execution.
+
+Marvin Minsky's **Search -> Pattern-Recognition -> Learning -> Planning -> Induction** or Andrew Ng's **Reflection -> Tool Use > Planning -> Multi-Agent Collaboration** are additional examples of abstract workflows that can be applied more directly to artificial intelligence.
 
 !!! tip
 
     **Act quickly** with GIST loops and **plan persistently** with design thinking documents
 
-My version of GIST is a specific instance of the generic workflow class. Workflows combine loops and documents to guide product management from concept to execution.
-
-Marvin Minsky's **Search -> Pattern-Recognition -> Learning -> Planning -> Induction** or Andrew Ng's **Reflection -> Tool Use > Planning -> Multi-Agent Collaboration** are abstract examples of workflows that apply more directly to artificial intelligence.
-
 ## Agents
+
+![Agents](assets/clones_1.jpg)
 
 The near-term promise of AI agents is that given minimal input and supervision, they can semi-autonomously:
 
@@ -46,11 +46,15 @@ The near-term promise of AI agents is that given minimal input and supervision, 
 - get things done by implementing automations, accessing external tools and parallelising activity
 - help product managers architect and orchestrate workflows that result in faster, cheaper and better quality outcomes
 
-## :material-key-alert-outline: One Hour PM
+The core insight is that creative and product management processes and patterns both rely on overlapping metacognition skills and workflows. This is particlarly true when focusing - as I am - on the **intersection of AI-generated science fiction and fantasy microworlds and product ideas**.
 
-One Hour PM is a library I'm building that uses generative AI to help product managers accelerate value creation and capture. It does this by exploring how agents and automations can improve **creative** and **productive** ways of working with product ideas and tasks.
+My hypothesis is that agents built to accelerate productivity in product management can also be repurposed to accelerate creativity in generating content about fictional businesses, product and people.
 
-Kiln's key features are:
+## One Hour PM
+
+I'm building a library - a work in progress which I'm calling **One Hour PM** - that uses generative AI agents to help product managers accelerate value creation and capture. It does this by exploring how agents and automations can improve **creative** and **productive** ways of working with product ideas and tasks.
+
+The library has the following key features:
 
 - **Simple**: One input interface across all tasks
 - **Multimodal**: Inputs and outputs work with many data types
@@ -58,5 +62,6 @@ Kiln's key features are:
 - **Contextual**: Add custom data sources for more specific and specialised outcomes
 - **Connected**: Access to internal and external tools
 - **Automatic**: Agents execute creative and directed tasks semi-autonomously
-- **Fast**: Compressing cycle times to one hour product management sprints
+- **Fast**: Compressing task cycle times to minutes and workflow cycle times to an hour
 - **Solo**: Get more done with only yourself-in-the-loop
+- **Safe**: Validated output that enforces structure and reliability
