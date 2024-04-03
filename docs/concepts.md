@@ -20,16 +20,43 @@ Design thinking is a convenient way to categorise different stages of product pl
 
 ![designthinking](assets/designthinking_2.png)
 
-These documents are live artifacts with a dual purpose; they help product managers think better by themselves and communicate their thoughts more clearly to others.
+These documents are live and persistent artifacts with a dual purpose; they help product managers think better by themselves and communicate their thoughts more clearly to others throughout a loop.
 
-## Journeys
+## Workflows
 
-The distinction between loops and documents is the difference between routes and maps. GIST is an execution route against the backdrop of design thinking artifacts.
+The distinction between loops and documents is the difference between routes and maps. GIST is a specific execution loop against the map of design thinking documents.
 
 ![Modified GIST](assets/designthinking_3.png)
 
-My approach treats documents as a specialised, parallel step stage in the GIST loop. Documents are persistent objects and the outcome of a document step is an update to the relevant artifact.
+My approach treats documents as a specialised, parallel step stage in the GIST loop.
 
 !!! tip
 
     **Act quickly** with GIST loops and **plan persistently** with design thinking documents
+
+My version of GIST is a specific instance of the generic workflow class. Workflows combine loops and documents to guide product management from concept to execution.
+
+Marvin Minsky's **Search -> Pattern-Recognition -> Learning -> Planning -> Induction** or Andrew Ng's **Reflection -> Tool Use > Planning -> Multi-Agent Collaboration** are abstract examples of workflows that apply more directly to artificial intelligence.
+
+## Agents
+
+The near-term promise of AI agents is that given minimal input and supervision, they can semi-autonomously:
+
+- decide what to do by stringing together workflow components, sequences and schedules
+- get things done by implementing automations, accessing external tools and parallelising activity
+- help product managers architect and orchestrate workflows that result in faster, cheaper and better quality outcomes
+
+## :material-key-alert-outline: One Hour PM
+
+One Hour PM is a library I'm building that uses generative AI to help product managers accelerate value creation and capture. It does this by exploring how agents and automations can improve **creative** and **productive** ways of working with product ideas and tasks.
+
+Kiln's key features are:
+
+- **Simple**: One input interface across all tasks
+- **Multimodal**: Inputs and outputs work with many data types
+- **Curated**: Modern product tools and templates selected with a bias for lean workflows
+- **Contextual**: Add custom data sources for more specific and specialised outcomes
+- **Connected**: Access to internal and external tools
+- **Automatic**: Agents execute creative and directed tasks semi-autonomously
+- **Fast**: Compressing cycle times to one hour product management sprints
+- **Solo**: Get more done with only yourself-in-the-loop

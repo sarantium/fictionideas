@@ -2,6 +2,10 @@
 
 ##
 
+Dead internet theory says that internet is just bots. Gen AI can accelerate this. Full of stochastic content of no value. And further full of scams. The idea that search will keep up is laughable.
+
+##
+
 Maybe I can start with a collection of **predictions** then base my view on that?
 
 THen I can move on to **examples**
@@ -240,3 +244,17 @@ Consumer First General companies worth looking into : https://gamma.app/docs/a16
 |                                                   |                    |
 |                                                   |                    |
 |                                                   |                    |
+
+If agents can help product managers architect and orchestrate workflows that result in faster, cheaper and better quality outcomes, then, depending on the scale of the improvement different opportunities open up.
+
+- slight improvements lead to more productive PMs
+- large improvements lead to changes in PM skillsets and labour force compositions (the jury is still out) and the move from "No" to "Yes" (https://x.com/clairevo/status/1774451083622191400?s=20)
+- enormous improvements lead to a reshaping of the technology and productivity landscape with the rise of machine users
+
+## Approach
+
+- Get it working
+- Get it right
+- Get it to scale
+
+https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast

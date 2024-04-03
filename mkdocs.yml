@@ -46,6 +46,7 @@ nav:
       - Creativity: creativity.md
       - Concepts: concepts.md
       - Evaluation: evaluation.ipynb
+      - One Hour PM: onehourpm.md
       - Evaluation_1: evaluation_1.ipynb
       - Trisociations: experiment_1.ipynb
   - Stories:
