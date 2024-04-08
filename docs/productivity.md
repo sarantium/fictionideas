@@ -6,7 +6,7 @@ Where product managers end up is not where they start. _Build-measure-learn_ and
 
 ![Step](assets/hero_4.png)
 
-GIST is a modern approach to learning loops; it stands for **G**oals, **I**deas, **S**teps and **T**asks. The underlying theory advocates rapid experimentation to increase confidence that ideas deliver measurable value.
+GIST is a modern approach to learning loops in product management; it stands for **G**oals, **I**deas, **S**teps and **T**asks. The underlying theory advocates rapid experimentation to increase confidence that ideas deliver measurable value.
 
 > goals define what we wish to achieve, ideas are hypothetical ways to achieve the goals, steps are mini-projects that implement an idea in parts while validating it, and tasks are the day-to-day activities that implement a step<sup>[1](https://itamargilad.com/book-evidence-guided/)<sup>
 
@@ -79,9 +79,9 @@ My hypothesis is that agents and pipelines built to accelerate productivity in p
 
     Productivity and creativity agents enhance each other through shared workflows
 
-The core insight is that creative and product management processes and patterns both rely on overlapping agentic workflows. This is particlarly true when focusing - as I am - on the **intersection of AI-generated science fiction and fantasy microworlds and product ideas**.
+The core insight is that creative and productive processes and patterns both rely on overlapping agentic workflows. This is particlarly true when focusing - as I am - on the **intersection of AI-generated science fiction and fantasy microworlds and product ideas**.
 
-I believe the speed, cost and quality improvments offered by agents also starts to reposition the role of product managers from always saying no amidst scarcity to starting to say yes amidst abundance<sup>[2](https://x.com/clairevo/status/1774451083622191400)<sup>.
+I believe the speed, cost and quality improvements offered by agents also starts to reposition the role of product managers from saying no amidst scarcity to saying yes amidst abundance<sup>[2](https://x.com/clairevo/status/1774451083622191400)<sup>.
 
 ## One Hour PM
 
