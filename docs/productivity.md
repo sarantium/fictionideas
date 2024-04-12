@@ -67,34 +67,46 @@ These workflows can also be applied to the goal of a product manager delivering 
 
     Right now, agents are buzzy and fuzzy; we are all figuring out where they fit and sometimes use them as hammers even when there aren't any nails.
 
-As workflows move from operational to metacognitive, they get less domain specific, more abstract and more general purpose. Operational workflows are usually some type of concrete user journey or user flow. GIST is an example of a strategic but still domain specific workflow as is Double/Triple Diamond design thinking.
+Agent workflows evolve from operational to metacognitive, each serving a distinct purpose. Operational workflows focus on routine tasks, like tracking project milestones or managing customer feedback. Strategic workflows, such as GIST, are broader, targeting larger goals within specific domains like product management. While these workflows are optimised for certain contexts, they can be adapted to other areas, although their effectiveness may vary.
 
-Marvin Minsky's _Search -> Pattern-Recognition -> Learning -> Planning -> Induction_ and Andrew Ng's _Reflection -> Tool Use > Planning -> Multi-Agent Collaboration_ come to mind as examples of cognitive workflows with greater abstraction and wider applicability with their genesis in artificial intelligence. Finally, Flavell, Brown, and Nelson and Naren's models of metacognition are all examples of thinking about thinking.
+The transition to cognitive workflows introduces a move toward dynamic and adaptive approaches. Examples of cognitive workflows for agents include:
+
+- Hrishi Olickel's iterative loop of Chat, Play, Loop, and Nest
+- Marvin Minsky's sequence of Search, Pattern-Recognition, Learning, Planning, and Induction
+- Andrew Ng's progression with Reflection, Tool Use, Planning, and Multi-Agent Collaboration
+
+These models emphasise continuous learning and iteration, employing abstract problem-solving techniques that are applicable across various fields.
+
+At the metacognitive level, the focus is on understanding and improving how agents think and work. This involves monitoring their own processes, recognizing when it's time to adjust their approach, and making those changes. For example, in AI systems, this could mean an algorithm that learns from its mistakes and gets better over time. In teams, it might involve regularly checking how agents work together and finding ways to be more efficient. This kind of self-awareness and adaptability is key in many areas, helping agents solve problems more effectively and come up with better ideas.
+
+## Manifesto
+
+An early shadow inspired by Agile, I'm proposing my rule of thumb AI manifesto for working with LLMs that is focused on build techniques
+
+- **Pipelines > Prompts**
+- **Inputs > Outputs**
+- **APIs > Abstractions**
+- **Multimodal > Text**
+
+The table below collects technique tips and tricks across the build cycle.
+
+| Stage                    | Techniques                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Planning & Design**    | - **Iterative Loop:**<br> • Chat: Explore options<br> • Play: Edit in OpenAI playground (60% time)<br> • Loop: Add data and test cases<br> • Nest: Simplify with subtasks<br>- **Time Allocation:**<br> • Playing: 60%<br> • Prompt Tuning: 20%<br> • Input Massaging: 10%<br> • Coding: 10%<br> • Tooling: 1%                                                                     |
+| **Development**          | - **Dos:**<br> • Use all modalities<br> • Code for input and output structure<br> • Leverage pretraining information<br> • Reduce search space upfront<br>- **Don'ts:**<br> • Add abstractions between yourself and the LLM<br> • Stick to one model<br> • Have too high an I/O ratio                                                                                              |
+| **Testing & Debugging**  | - **Debugging:**<br> • Start at the prompt level or try a different model<br> • Transform input and add more structure to output<br> • Classify tasks and errors to identify where the failure is<br>- **Optimizing AI:**<br> • Break prompts to reduce complexity<br> • Use separate models for structure and long-form writing<br> • Implement state management and self-healing |
+| **Deployment & Scaling** | - **Future Planning:**<br> • Assume everything will be 10x to 50x cheaper and faster in the future<br> • Build for at least 6 months ahead<br>- **AI Resources:**<br> • Be mindful of the exponential scaling of attention algorithms                                                                                                                                              |
 
 ## Hypothesis
 
-My hypothesis is that agents and pipelines built to accelerate productivity in product management can also be repurposed or adjusted to accelerate creativity in generating content about fictional businesses, products and people.
+My hypothesis is that agents and pipelines built to accelerate productivity can also be repurposed or adjusted to accelerate creativity. The core insight is that creative and productive processes and patterns both rely on overlapping agentic workflows. This is particlarly true when focusing - as I am - on the **intersection of AI-generated science fiction and fantasy microworlds and product ideas**.
 
-!!! tip "Hypothesis"
+!!! tip "Hypothesis 1"
 
     Productivity and creativity agents enhance each other through shared workflows
 
-The core insight is that creative and productive processes and patterns both rely on overlapping agentic workflows. This is particlarly true when focusing - as I am - on the **intersection of AI-generated science fiction and fantasy microworlds and product ideas**.
+I believe the speed, cost and quality improvements offered by agents provides a step change in resources, opportunities and leverage for product managers; in an enviornment of abundance rather than scarcity, they can say say yes more often<sup>[2](https://x.com/clairevo/status/1774451083622191400)<sup>.
 
-I believe the speed, cost and quality improvements offered by agents also starts to reposition the role of product managers from saying no amidst scarcity to saying yes amidst abundance<sup>[2](https://x.com/clairevo/status/1774451083622191400)<sup>.
+!!! tip "Hypothesis 2"
 
-## One Hour PM
-
-I'm building a library - a work in progress which I'm calling **One Hour PM** - that uses generative AI agents to help product managers accelerate value creation and capture. It does this by exploring how agents and automations can improve **creative** and **productive** ways of working with product ideas and tasks.
-
-The library has the following key features:
-
-- **Simple**: One input interface across all tasks
-- **Multimodal**: Inputs and outputs work with many data types
-- **Curated**: Modern product tools and templates selected with a bias for lean workflows
-- **Contextual**: Add custom data sources for more specific and specialised outcomes
-- **Connected**: Access to internal and external tools
-- **Automatic**: Agents execute creative and directed tasks semi-autonomously
-- **Fast**: Compressing task cycle times to minutes and workflow cycle times to an hour
-- **Solo**: Get more done with only yourself-in-the-loop
-- **Safe**: Validated output that enforces structure and reliability
+    Agents help product managers ship faster, cheaper and better at every stage of value capture and creation

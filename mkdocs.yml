@@ -44,6 +44,8 @@ nav:
   - Machine Users: machineusers.md
   - Productivity: productivity.md
   - Creativity: creativity.md
+  - Workflows:
+      - One Hour PM: kiln.md
   # - Concepts: concepts.md
   # - Evaluation: evaluation.ipynb
   # - One Hour PM: onehourpm.md
