@@ -36,59 +36,45 @@ My version of GIST is also a specific instance of the generic workflow class. Wo
 
 ![Agents](assets/clones_1.jpg)
 
-The near-term promise of AI agents is that, given minimal input and supervision they can:
+The near-term promise of AI agents is that given minimal input and supervision they can:
 
 - decide what to do by stringing together workflow components, sequences and schedules
 - get things done by implementing automations, accessing tools and parallelising activity
-- semi-autonomously know when to start, when to keep going and when to stop
+- know when to start, when to keep going and when to stop
 - help architect and orchestrate workflows for faster, cheaper and better outcomes
 
-Taking the goal of writing a fiction novel, the table below distinguishes between four types of agentic workflows.
+Agent workflows foreground opportunities for semi-autonomous tool use. This modifies our GIST loop by elevating Tools and discarding Steps from the top level hierarchy. Steps are now more simply interpreted as Task sequences, and the GIST loop is now the GITT loop.
 
-| Workflow      | Description                                                                                                                                                         | Example                                                                                                                                                                        |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Operational   | These are the basic tasks that the AI agent handles, like fixing grammar, suggesting better words, or keeping track of character details in a story.                | Imagine the AI agent is like a helpful assistant who takes care of the small but important jobs, such as making sure the writing is polished and consistent.                   |
-| Strategic     | These are the bigger plans and decisions the AI agent helps with, like figuring out the main steps of a story or setting goals for what the writing should achieve. | Think of the AI agent as a co-author who helps map out the story's journey and ensures that each chapter moves the plot forward.                                               |
-| Cognitive     | These are the smart, thinking tasks where the AI agent analyses the writing, spots areas for improvement, and learns from feedback to make better suggestions.      | The AI agent acts like a wise editor who not only finds issues but also learns what works best for your writing style and preferences.                                         |
-| Metacognitive | This is where the AI agent manages and improves its own tasks, strategies, and thinking processes to become more effective over time.                               | Imagine the AI agent is like a self-improving app that gets better at helping you the more you use it, constantly fine-tuning its assistance based on your needs and feedback. |
+![Modified GIST](assets/gist_2.png)
 
-These workflows can also be applied to the goal of a product manager delivering an admissions module within a student management system.
+Tools can take two forms: tools for thought and tools for action. Tools for thought are persistent state objects like the already mentioned design thinking documents. Tools for action are functions that process input, manipulate data and return a result - like calling a weather API to get the forecast for my current location. Tools for thought focus on representation while tools for action focus on transformation.
 
-| Workflow      | Description                                                                                                                                                                                      | Example                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Operational   | These are the basic tasks that the AI agent handles, such as automating data entry for student applications, generating reports on application status, or sending notifications to applicants.   | Imagine the AI agent as a meticulous assistant who streamlines the admissions process by automatically entering student application data, generating real-time reports on the status of applications, and sending timely notifications to applicants about their application status.                                                                                                                                                                                                                                                    |
-| Strategic     | These are the larger plans and decisions the AI agent assists with, using frameworks like GIST to set goals, generate ideas, plan steps, and execute tasks for developing the admissions module. | Think of the AI agent as a strategic partner who uses the GIST framework to help the development team set clear goals for the admissions module, brainstorm features that enhance the admissions process, outline development steps, and guide the execution of the module development.                                                                                                                                                                                                                                                 |
-| Cognitive     | These are the intelligent analysis and decision-making tasks where the AI agent identifies patterns in application data, plan module enhancements, and solve usability challenges.               | The AI agent acts like a smart analyst who examines application data, plans improvements based on applicant feedback, and addresses usability challenges to enhance the module's effectiveness and user experience.                                                                                                                                                                                                                                                                                                                     |
-| Metacognitive | This is where the AI agent oversees and refines its own operational, strategic, and cognitive workflows to optimize the development and implementation of the admissions module over time.       | Visualise the AI agent as a self-regulating system that continually optimises its performance within the admissions module. It assesses its own effectiveness in handling application workflows, identifies areas for improvement in data analysis, and adapts its strategies for engaging with applicants. This self-assessment and adaptation are driven by ongoing feedback from the admissions team and shifts in application patterns, ensuring the module remains aligned with the evolving objectives of the admissions process. |
+Inspired by Andrew Ng<sup>[2](https://youtu.be/sal78ACtGTc?si=ciC6rMuax6sIdtfU)</sup> and Marvin Minsky<sup>[3](https://courses.csail.mit.edu/6.803/pdf/steps.pdf)</sup>, _Planning_, _Reflection_ and _Search_ are predefined workflows that have wide utility and can be nested as Tools in other workflows.
 
 ??? danger "Caution"
 
-    Not every workflow or outcome needs to be agentic, especially operationally. Many of the items above may just be app features with no agent input or output.
+    Not every workflow or task needs to be agentic. Right now, agents are buzzy and fuzzy; we are all figuring out where they fit and sometimes use them as hammers even when there aren't any nails.
 
-    Right now, agents are buzzy and fuzzy; we are all figuring out where they fit and sometimes use them as hammers even when there aren't any nails.
+## Intelligence
 
-Agent workflows evolve from operational to metacognitive, each serving a distinct purpose. Operational workflows focus on routine tasks, like tracking project milestones or managing customer feedback. Strategic workflows, such as GIST, are broader, targeting larger goals within specific domains like product management. While these workflows are optimised for certain contexts, they can be adapted to other areas, although their effectiveness may vary.
+In a recent nature article<sup>[4](https://doi.org/10.1038/s42003-024-06037-4)</sup> <sup>[5](https://x.com/kasratweets/status/1783217644897984636)</sup>, intelligence is framed as a defining characteristic of biological systems, operating across scales from molecular to societal.
 
-The transition to cognitive workflows introduces a move toward dynamic and adaptive approaches. Examples of cognitive workflows for agents include:
+This challenges the conventional view that intelligence is purely cognitive, instead arguing that each level of biology - all the way down to organs, tissues, and genetic networks, and all the way up to swarms of organisms and societies, and even the biosphere - is intelligent in its own problem space.
 
-- Hrishi Olickel's iterative loop of Chat, Play, Loop, and Nest
-- Marvin Minsky's sequence of Search, Pattern-Recognition, Learning, Planning, and Induction
-- Andrew Ng's progression with Reflection, Tool Use, Planning, and Multi-Agent Collaboration
+At each level, the collective intelligence of competent units (e.g. cells, organs, humans) combine to develop a joint capacity that each individual unit doesn't have on its own. For instance, neural crest cells and tadpole melanocytes demonstrate that biological entities can exhibit collective behaviors that override individual tendencies, enhancing their adaptive success in their respective environments.
 
-These models emphasise continuous learning and iteration, employing abstract problem-solving techniques that are applicable across various fields.
+Applied to AI agents, this narrative suggests two things. First, agents that perform individual tasks or execute entire workflows by interacting with Large Multimodal Models (LMMs) are a specialised kind of intelligence even without approaching AGI. Second, multi-agent collaboration in a task or a workflow is a form of collective intelligence that can lead to better quality decisions and outcomes than monolithic agents can achieve by themselves.
 
-At the metacognitive level, the focus is on understanding and improving how agents think and work. This involves monitoring their own processes, recognizing when it's time to adjust their approach, and making those changes. For example, in AI systems, this could mean an algorithm that learns from its mistakes and gets better over time. In teams, it might involve regularly checking how agents work together and finding ways to be more efficient. This kind of self-awareness and adaptability is key in many areas, helping agents solve problems more effectively and come up with better ideas.
+## Engineering
 
-## Manifesto
-
-An early shadow inspired by Agile, I'm proposing my rule of thumb AI manifesto for working with LLMs that is focused on build techniques
+Hrishi Olickel's iterative loop of Chat, Play, Loop, and Nest<sup>[6](https://youtu.be/gsO5V30h-lU?si=pxQ0X-p9iUYHlYXs)</sup> <sup>[7](https://youtu.be/8w0hUcQSDy8?si=6eAb4SqLy3B015Jd)</sup> guides alot of my thinking on how to build agentic workflows. In general, the build principles I follow are:
 
 - **Pipelines > Prompts**
 - **Inputs > Outputs**
 - **APIs > Abstractions**
 - **Multimodal > Text**
 
-The table below collects technique tips and tricks across the build cycle.
+The table below collects more specific technique tips and tricks - summarised from Hrishi's talks - across the build cycle.
 
 | Stage                    | Techniques                                                                                                                                                                                                                                                                                                                                                                         |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -99,14 +85,19 @@ The table below collects technique tips and tricks across the build cycle.
 
 ## Hypothesis
 
-My hypothesis is that agents and pipelines built to accelerate productivity can also be repurposed or adjusted to accelerate creativity. The core insight is that creative and productive processes and patterns both rely on overlapping agentic workflows. This is particlarly true when focusing - as I am - on the **intersection of AI-generated science fiction and fantasy microworlds and product ideas**.
+My hypothesis is that agents and pipelines built to accelerate productivity can also be repurposed or adjusted to accelerate creativity; the reverse is also true.
 
-!!! tip "Hypothesis 1"
+The core insight is that creative and productive processes and patterns both rely on overlapping agentic workflows. This is particlarly true when focusing - as I am - on the **intersection of AI-generated science fiction and fantasy microworlds and product ideas**.
 
-    Productivity and creativity agents enhance each other through shared workflows
+!!! tip "Hypothesis"
 
-I believe the speed, cost and quality improvements offered by agents provides a step change in resources, opportunities and leverage for product managers; in an enviornment of abundance rather than scarcity, they can say say yes more often<sup>[2](https://x.com/clairevo/status/1774451083622191400)<sup>.
+    Productivity and creativity agents share workflows and workflow primitives
 
-!!! tip "Hypothesis 2"
+I believe the speed, cost and quality improvements offered by agents provides a step change in resources, opportunities and leverage for product managers. Agents help product managers:
 
-    Agents help product managers ship faster, cheaper and better at every stage of value capture and creation
+- ship faster, cheaper and better at every stage of value capture and creation
+- shift the default response from no to yes<sup>[8](https://x.com/clairevo/status/1774451083622191400)<sup>
+- log audit trails for previously implicit thoughts and actions
+- weave creative and compelling narratives
+
+See -> https://www.prefect.io/ for a nice implementation of task and flow primitives
