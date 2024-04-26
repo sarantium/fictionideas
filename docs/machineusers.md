@@ -4,6 +4,21 @@
 
 Dead internet theory says that internet is just bots. Gen AI can accelerate this. Full of stochastic content of no value. And further full of scams. The idea that search will keep up is laughable.
 
+## Thoughts
+
+- focus on how to implement in organisations
+- B2B > B2C
+- deep dive into edtech
+- deep dive into workflows?
+- involve wardley maps.
+- I like SamboNova
+
+## TEQSA Links
+
+https://www.teqsa.gov.au/guides-resources/higher-education-good-practice-hub/artificial-intelligence
+
+=> also look at National AI Centre
+
 ##
 
 Maybe I can start with a collection of **predictions** then base my view on that?

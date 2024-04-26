@@ -92,6 +92,10 @@ Additionally, they offer a safe space for exploring alternative solutions to rea
 
 My focus on this site is to merge my interests and experiment with the **intersection of AI-generated science fiction and fantasy microworlds and product ideas**. I want to treat it primarily as a **testing ground for AI techniques that assist and automate creative and product management pipelines**. Secondarily, I aspire to **craft engaging and interactive microworlds** that demonstrate the utility of synthetic data layered with rich narratives in enhancing our understanding of commercial ideas and inspiring innovation in the real world.
 
+## Another perspective
+
+https://www.inoreader.com/article/3a9c6e743771a1f1-the-ai-lie => article argues that AI stymies creativity and is worth tackling and critiquing.
+
 ---
 
 For Product Managers: Our platform serves as a practical lab, where you can try out new approaches and tools that can be directly applied to real-world challenges.

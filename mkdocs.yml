@@ -45,6 +45,7 @@ nav:
   - Productivity: productivity.md
   - Creativity: creativity.md
   - Workflows:
+      - Simple Goal Agent: w1.md
       - One Hour PM: kiln.md
   # - Concepts: concepts.md
   # - Evaluation: evaluation.ipynb
