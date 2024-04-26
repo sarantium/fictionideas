@@ -63,7 +63,19 @@ This challenges the conventional view that intelligence is purely cognitive, ins
 
 At each level, the collective intelligence of competent units (e.g. cells, organs, humans) combine to develop a joint capacity that each individual unit doesn't have on its own. For instance, neural crest cells and tadpole melanocytes demonstrate that biological entities can exhibit collective behaviors that override individual tendencies, enhancing their adaptive success in their respective environments.
 
-Applied to AI agents, this narrative suggests two things. First, agents that perform individual tasks or execute entire workflows by interacting with Large Multimodal Models (LMMs) are a specialised kind of intelligence even without approaching AGI. Second, multi-agent collaboration in a task or a workflow is a form of collective intelligence that can lead to better quality decisions and outcomes than monolithic agents can achieve by themselves.
+In the science fiction novel _Kiln People_, David Brin introduces the idea of 'dittos'. Dittos are temporary clay replicas that perform tasks, experience the world, and transfer memories back to the original human before expiring at the end of the day. This technology significantly alters social structure, economics, and personal interactions.
+
+Dittos are humanoid agents with varying lifespans and intelligence based on colour, representing a gradient from basic labor to advanced cognitive functions. Broadly, the colour abilities are:
+
+- Gray: Handle mundane tasks with limited cognitive abilities
+- Green: Engage in skilled labor requiring more intellectual effort
+- Blue: Perform complex problem-solving for specialized professional tasks
+- Black: Tackle highly specialized fields and complex investigations with deep creativity
+- Silver: Used for significant social interactions and business meetings
+
+Each ditto colour addresses a different problem space that is not entirely substitutable or subsumable by another. Silver dittos may be smarter than grays, but it isn't clear that they can do all gray tasks better, faster and cheaper than grays. Further, dittos of the same or different colors working together can often achieve greater outcomes than dittos working alone.
+
+Applied to AI agents, these narratives from biology and science fiction suggest two things. First, agents that perform individual tasks or execute entire workflows by interacting with Large Multimodal Models (LMMs) are a specialised kind of intelligence even without approaching artificial general intelligence (AGI). Second, multi-agent collaboration in a task or a workflow is a form of collective intelligence that can lead to better quality decisions and outcomes than monolithic agents can achieve by themselves.
 
 ## Engineering
 
