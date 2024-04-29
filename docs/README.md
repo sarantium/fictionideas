@@ -13,8 +13,8 @@
 
     **For Creatives**: I create immersive microworlds that highlight the potential of synthetic data and storytelling.
 
-    My journey into the future of AI begins with the concept of **[Machine Users](machineusers.md)**, and I detail my automation and creation processes in **[Productivity](productivity.md)** and **[Creativity](creativity.md)**.
+    My journey into the future of AI begins with the concept of **[Machine Users](machineusers.md)**, while I detail my execution approach in **[Productivity](productivity.md)** and **[Creativity](creativity.md)**.
 
-    You can see how I automate processes in **Workflows** from the sidebar. [Work in Progress]
+    You can see how I automate processes in **Workflows** from the sidebar.
 
     You can explore my multimodal **Stories** from the sidebar. Start with a **[time salad](2.md)**, lie in an **[ocean tent](10.md)** or unfold an **[origami flower](12.md)**. Or maybe you prefer to relax with **[light therapy](18.md)** and grab a **[chilled beverage](19.md)** while watching an **[apocalyptic ride](21.md)** or **[interstellar intrigue](22.md)** unfold.

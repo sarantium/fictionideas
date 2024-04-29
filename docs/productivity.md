@@ -75,25 +75,21 @@ Dittos are humanoid agents with varying lifespans and intelligence based on colo
 
 Each ditto colour addresses a different problem space that is not entirely substitutable or subsumable by another. Silver dittos may be smarter than grays, but it isn't clear that they can do all gray tasks better, faster and cheaper than grays. Further, dittos of the same or different colors working together can often achieve greater outcomes than dittos working alone.
 
-Applied to AI agents, these narratives from biology and science fiction suggest two things. First, agents that perform individual tasks or execute entire workflows by interacting with Large Multimodal Models (LMMs) are a specialised kind of intelligence even without approaching artificial general intelligence (AGI). Second, multi-agent collaboration in a task or a workflow is a form of collective intelligence that can lead to better quality decisions and outcomes than monolithic agents can achieve by themselves.
+Applied to AI agents, these narratives from biology and science fiction suggest two things. First, agents that perform individual tasks or execute entire workflows by interacting with Large Multimodal Models (LMMs) are specialised kinds of scaled intelligence. Second, multi-agent collaboration in a task or a workflow is a form of collective intelligence that can lead to better quality decisions and outcomes than monolithic agents can achieve by themselves.
 
-## Engineering
+!!! tip "Agent Intelligence"
 
-Hrishi Olickel's iterative loop of Chat, Play, Loop, and Nest<sup>[6](https://youtu.be/gsO5V30h-lU?si=pxQ0X-p9iUYHlYXs)</sup> <sup>[7](https://youtu.be/8w0hUcQSDy8?si=6eAb4SqLy3B015Jd)</sup> guides alot of my thinking on how to build agentic workflows. In general, the build principles I follow are:
+    Agents exhibit **scaled** and **collective** intelligence
 
-- **Pipelines > Prompts**
-- **Inputs > Outputs**
-- **APIs > Abstractions**
-- **Multimodal > Text**
+In the simplest interactions, an LMM processing a single request demonstrates momentary agency. This happens when the model uniquely responds to each query, create something new and appropriate for the situation. These instances illustrate the LLM acting with micro creativity. They underscore the model's capacity to generate outputs that are not strictly predetermined.
 
-The table below collects more specific technique tips and tricks - summarised from Hrishi's talks - across the build cycle.
+When LMMs scale from specific tasks towards iterative for-loops—repeating tasks with minor variations—they exhibit rhizomatic agency, inspired by Deleuze and Guattari's concept of endlessly branching structures. Each cycle allows the LLM to subtly adjust its responses, by reading the message history and drawing on the outcomes of previous iterations. This ongoing adaptation distinguishes it from mindless repetition.
 
-| Stage                    | Techniques                                                                                                                                                                                                                                                                                                                                                                         |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Planning & Design**    | - **Iterative Loop:**<br> • Chat: Explore options<br> • Play: Edit in OpenAI playground (60% time)<br> • Loop: Add data and test cases<br> • Nest: Simplify with subtasks<br>- **Time Allocation:**<br> • Playing: 60%<br> • Prompt Tuning: 20%<br> • Input Massaging: 10%<br> • Coding: 10%<br> • Tooling: 1%                                                                     |
-| **Development**          | - **Dos:**<br> • Use all modalities<br> • Code for input and output structure<br> • Leverage pretraining information<br> • Reduce search space upfront<br>- **Don'ts:**<br> • Add abstractions between yourself and the LLM<br> • Stick to one model<br> • Have too high an I/O ratio                                                                                              |
-| **Testing & Debugging**  | - **Debugging:**<br> • Start at the prompt level or try a different model<br> • Transform input and add more structure to output<br> • Classify tasks and errors to identify where the failure is<br>- **Optimizing AI:**<br> • Break prompts to reduce complexity<br> • Use separate models for structure and long-form writing<br> • Implement state management and self-healing |
-| **Deployment & Scaling** | - **Future Planning:**<br> • Assume everything will be 10x to 50x cheaper and faster in the future<br> • Build for at least 6 months ahead<br>- **AI Resources:**<br> • Be mindful of the exponential scaling of attention algorithms                                                                                                                                              |
+Moving to more complex scenarios, LMMs in workflows exhibit systemic agency. These systems coordinate multiple processes to handle complex tasks that surpass the abilities of individual components. This coordination enhances decision-making and outcomes. Unlike the transient and adaptive behaviors of momentary and rhizomatic agencies, systemic agency allows workflows to effectively adapt to and manage unexpected challenges, demonstrating a robust capacity for problem-solving.
+
+Just as in biology and science fiction, I believe that all LMM interactions from single tasks to complex workflows show signs of agency. By focusing on how this agency scales with the complexity of the problem and solution space, we shift from drawing boundaries between abstract definitions of agents to assessing real-world effectiveness.
+
+                                                                   |
 
 ## Hypothesis
 
