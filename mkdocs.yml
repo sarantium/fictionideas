@@ -21,9 +21,9 @@ theme:
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
-  # features:
-  #   - content.code.copy
-  #   - content.code.annotate
+  features:
+    - content.code.copy
+    - content.code.annotate
 
   # markdown_extensions:
   #   # - pymdownx.highlight:
@@ -39,8 +39,10 @@ theme:
 
 markdown_extensions:
   - admonition
+  - md_in_html
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
 
 plugins:
   - mkdocs-jupyter:
@@ -60,7 +62,7 @@ nav:
   - Creativity: creativity.md
   - Workflows:
       - Code: w0.md
-      - Simple Goal Agent: w1.md
+      - Goal Agent: w1.md
       - One Hour PM: kiln.md
   # - Concepts: concepts.md
   # - Evaluation: evaluation.ipynb

@@ -89,8 +89,6 @@ Moving to more complex scenarios, LMMs in workflows exhibit systemic agency. The
 
 Just as in biology and science fiction, I believe that all LMM interactions from single tasks to complex workflows show signs of agency. By focusing on how this agency scales with the complexity of the problem and solution space, we shift from drawing boundaries between abstract definitions of agents to assessing real-world effectiveness.
 
-                                                                   |
-
 ## Hypothesis
 
 My hypothesis is that agents and pipelines built to accelerate productivity can also be repurposed or adjusted to accelerate creativity; the reverse is also true.
