@@ -76,7 +76,7 @@ Think of it like this: if everyday creativity is a treasure map, AI is becoming 
 - I do experiments or tinkerings.
 - cite/talk about this study on hallucination, taxonomy, evaluation and creativity (https://arxiv.org/abs/2402.06647)
 
-## Imaginary Worlds
+## Imaginary worlds
 
 ![Microworlds](assets/microworlds_1.webp)
 

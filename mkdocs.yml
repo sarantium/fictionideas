@@ -63,6 +63,7 @@ nav:
   - Workflows:
       - Code: w0.md
       - Goal Agent: w1.md
+      - Plan Agent: w2.md
       - One Hour PM: kiln.md
   # - Concepts: concepts.md
   # - Evaluation: evaluation.ipynb
@@ -70,30 +71,30 @@ nav:
   # - Evaluation_1: evaluation_1.ipynb
   # - Trisociations: experiment_1.ipynb
   - Stories:
-      - GlimmerCraft: 1.md
-      - ChronoCuisine: 2.md
-      - WhimsiQuill: 3.md
-      - LustraGem: 4.md
-      - Glintroam Odyssey Tours: 5.md
-      - SteamCraft Innovations: 6.md
-      - Mystique & Masquerade: 7.md
-      - Galactic Questers: 8.md
-      - Cosmos Canvas: 9.md
-      - AquaTents 🎵: 10.md
-      - Haiku Harmonics: 11.md
-      - Whispering Gardens 📽️: 12.md
-      - Celestial Harmonics: 13.md
-      - Gravitational Harmony Homes: 14.md
-      - Café-Oruga Comms: 15.md
-      - MoodHues Chapeau: 16.md
-      - Fyrestoke Hearth & Home: 17.md
-      - Waxen Calm 🎵: 18.md
-      - Nether's Bane: 19.md
-      - Sleight of Hand Academy: 20.md
-      - Rattle's Raid Rides 🎵📽️: 21.md
-      - SwiftTrade 💲: 22.md
-      - Gadgetarium: 23.md
-      - Twilight Grove: 24.md
-      - Wisdom Keeper 🪞: 25.md
-      - Seshatian Vault 🪞: 26.md
-      - InkLinks: 30.md
+      - GlimmerCraft: stories/1.md
+      - ChronoCuisine: stories/2.md
+      - WhimsiQuill: stories/3.md
+      - LustraGem: stories/4.md
+      - Glintroam Odyssey Tours: stories/5.md
+      - SteamCraft Innovations: stories/6.md
+      - Mystique & Masquerade: stories/7.md
+      - Galactic Questers: stories/8.md
+      - Cosmos Canvas: stories/9.md
+      - AquaTents 🎵: stories/10.md
+      - Haiku Harmonics: stories/11.md
+      - Whispering Gardens 📽️: stories/12.md
+      - Celestial Harmonics: stories/13.md
+      - Gravitational Harmony Homes: stories/14.md
+      - Café-Oruga Comms: stories/15.md
+      - MoodHues Chapeau: stories/16.md
+      - Fyrestoke Hearth & Home: stories/17.md
+      - Waxen Calm 🎵: stories/18.md
+      - Nether's Bane: stories/19.md
+      - Sleight of Hand Academy: stories/20.md
+      - Rattle's Raid Rides 🎵📽️: stories/21.md
+      - SwiftTrade 💲: stories/22.md
+      - Gadgetarium: stories/23.md
+      - Twilight Grove: stories/24.md
+      - Wisdom Keeper 🪞: stories/25.md
+      - Seshatian Vault 🪞: stories/26.md
+      - InkLinks: stories/30.md

@@ -2,6 +2,12 @@
 
 ##
 
+Critic framework for agent reflection : https://arxiv.org/abs/2305.11738
+
+Coala framework for agents : https://arxiv.org/abs/2309.02427
+
+##
+
 Dead internet theory says that internet is just bots. Gen AI can accelerate this. Full of stochastic content of no value. And further full of scams. The idea that search will keep up is laughable.
 
 ## Thoughts
@@ -12,6 +18,14 @@ Dead internet theory says that internet is just bots. Gen AI can accelerate this
 - deep dive into workflows?
 - involve wardley maps.
 - I like SamboNova
+
+## Pipedream
+
+Check out pipedream for a nice workflow UI and Zapier like utility
+
+## interesting takes on UI
+
+https://www.inkandswitch.com/
 
 ## TEQSA Links
 

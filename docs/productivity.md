@@ -32,7 +32,7 @@ The distinction between loops and documents is the difference between execution 
 
 My version of GIST is also a specific instance of the generic workflow class. Workflows combine loops and documents to guide action from concept to execution.
 
-## Workflows
+## Flows
 
 ![Agents](assets/clones_1.jpg)
 
@@ -43,7 +43,7 @@ The near-term promise of AI agents is that given minimal input and supervision t
 - know when to start, when to keep going and when to stop
 - help architect and orchestrate workflows for faster, cheaper and better outcomes
 
-Agent workflows foreground opportunities for semi-autonomous tool use. This modifies our GIST loop by elevating Tools and discarding Steps from the top level hierarchy. Steps are now more simply interpreted as Task sequences, and the GIST loop is now the GITT loop.
+Agent workflows foreground opportunities for semi-autonomous tool use. This modifies our GIST loop by combining Steps and Tasks into Flows, and adding Tools to the loop. The GIST loop is now the GIFT loop with Tools positioned as the substrate on which Goal, Idea and Flow automations are built.
 
 ![Modified GIST](assets/gist_2.png)
 
@@ -81,17 +81,17 @@ Applied to AI agents, these narratives from biology and science fiction suggest 
 
     Agents exhibit **scaled** and **collective** intelligence
 
-In the simplest interactions, an LMM processing a single request demonstrates momentary agency. This happens when the model uniquely responds to each query, create something new and appropriate for the situation. These instances illustrate the LLM acting with micro creativity. They underscore the model's capacity to generate outputs that are not strictly predetermined.
+In the simplest interactions, an LMM processing a single request demonstrates momentary agency. This happens when the model uniquely responds to each query, creating something new and appropriate for the situation. These instances illustrate the LLM acting with micro creativity. They underscore the model's capacity to generate outputs that are not strictly predetermined.
 
-When LMMs scale from specific tasks towards iterative for-loops—repeating tasks with minor variations—they exhibit rhizomatic agency, inspired by Deleuze and Guattari's concept of endlessly branching structures. Each cycle allows the LLM to subtly adjust its responses, by reading the message history and drawing on the outcomes of previous iterations. This ongoing adaptation distinguishes it from mindless repetition.
+When LMMs scale from specific tasks towards iterative for-loops - repeating tasks with minor variations - they exhibit rhizomatic agency, inspired by Deleuze and Guattari's concept of endlessly branching structures. Each cycle allows the LLM to subtly adjust its responses, by reading the message history and drawing on the outcomes of previous iterations. This ongoing adaptation distinguishes it from mindless repetition.
 
-Moving to more complex scenarios, LMMs in workflows exhibit systemic agency. These systems coordinate multiple processes to handle complex tasks that surpass the abilities of individual components. This coordination enhances decision-making and outcomes. Unlike the transient and adaptive behaviors of momentary and rhizomatic agencies, systemic agency allows workflows to effectively adapt to and manage unexpected challenges, demonstrating a robust capacity for problem-solving.
+Moving to more complex scenarios, LMMs in workflows exhibit systemic agency. These systems coordinate multiple processes to handle complex tasks that surpass the abilities of individual components. This coordination enhances decision-making and outcomes. Unlike the transient and adaptive behaviors of momentary and rhizomatic agencies, systemic agency allows workflows to flexibly manage intricate sequences and unexpected challenges, demonstrating a robust capacity for problem-solving.
 
 Just as in biology and science fiction, I believe that all LMM interactions from single tasks to complex workflows show signs of agency. By focusing on how this agency scales with the complexity of the problem and solution space, we shift from drawing boundaries between abstract definitions of agents to assessing real-world effectiveness.
 
 ## Hypothesis
 
-My hypothesis is that agents and pipelines built to accelerate productivity can also be repurposed or adjusted to accelerate creativity; the reverse is also true.
+My hypothesis is that agentic tasks and pipelines built to accelerate productivity can also be repurposed or adjusted to accelerate creativity; the reverse is also true.
 
 The core insight is that creative and productive processes and patterns both rely on overlapping agentic workflows. This is particlarly true when focusing - as I am - on the **intersection of AI-generated science fiction and fantasy microworlds and product ideas**.
 
