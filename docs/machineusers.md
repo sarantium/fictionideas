@@ -1,5 +1,27 @@
 ![Machine Users](assets/machine_users_4.png)
 
+## AI Platform
+
+1. A central platform and service that helps product teams launch AI features in under 8 weeks.
+2. A central platform and service that helps internal business teams automate workflows
+3. A central platform and service that helps unify the company's AI voice and establish its presence externally in the edtech market as an AI leader
+4. A consultancy service that helps our clients experiment with and implement AI features in under 8 weeks
+
+## Why do this
+
+- our competitors are moving ahead of the curve
+- our clients are moving ahead of the curve and their expectations are high => educators going ahead of the curve
+- our mission
+- what are the established emerging practices => examples of what works
+- textbook machine learning engineering => 86% of Data projects => **Why do machine learning projects fail**
+  - missing data infrastructure
+  - specifically mentions lack of support for a machine learning workstyle => mlebook.com Josh Cooper has a section
+- antifragile needs a team for rolling with the waves.
+
+##
+
+- prepared to swith. approaches and providers early.
+
 ##
 
 Critic framework for agent reflection : https://arxiv.org/abs/2305.11738

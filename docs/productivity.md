@@ -43,13 +43,15 @@ The near-term promise of AI agents is that given minimal input and supervision t
 - know when to start, when to keep going and when to stop
 - help architect and orchestrate workflows for faster, cheaper and better outcomes
 
-Agent workflows foreground opportunities for semi-autonomous tool use. This modifies our GIST loop by combining Steps and Tasks into Flows, and adding Tools to the loop. The GIST loop is now the GIFT loop with Tools positioned as the substrate on which Goal, Idea and Flow automations are built.
+Agent workflows foreground opportunities for semi-autonomous tool use. This modifies our GIST loop into a GIFT loop - automations for **G**oals, **I**deas and **F**lows (merging steps and tasks into sequences) built on a substrate of **T**ools.
 
 ![Modified GIST](assets/gist_2.png)
 
-Tools can take two forms: tools for thought and tools for action. Tools for thought are persistent state objects like the already mentioned design thinking documents. Tools for action are functions that process input, manipulate data and return a result - like calling a weather API to get the forecast for my current location. Tools for thought focus on representation while tools for action focus on transformation.
+Tools can take two forms: tools for thought and tools for action. Tools for thought are persistent state objects like the already mentioned design thinking documents.
 
-Inspired by Andrew Ng<sup>[2](https://youtu.be/sal78ACtGTc?si=ciC6rMuax6sIdtfU)</sup> and Marvin Minsky<sup>[3](https://courses.csail.mit.edu/6.803/pdf/steps.pdf)</sup>, _Planning_, _Reflection_ and _Search_ are predefined workflows that have wide utility and can be nested as Tools in other workflows.
+Tools for action are functions that process input, manipulate data and return a result - like calling a weather API to get the forecast for my current location. Tools for thought focus on representation while tools for action focus on transformation.
+
+Inspired by Andrew Ng<sup>[2](https://youtu.be/sal78ACtGTc?si=ciC6rMuax6sIdtfU)</sup> and Marvin Minsky<sup>[3](https://courses.csail.mit.edu/6.803/pdf/steps.pdf)</sup>, _Planning_, _Reflection_ and _Search_ are predefined workflows that have wide utility and can be nested within other workflows.
 
 ??? danger "Caution"
 
@@ -88,6 +90,10 @@ When LMMs scale from specific tasks towards iterative for-loops - repeating task
 Moving to more complex scenarios, LMMs in workflows exhibit systemic agency. These systems coordinate multiple processes to handle complex tasks that surpass the abilities of individual components. This coordination enhances decision-making and outcomes. Unlike the transient and adaptive behaviors of momentary and rhizomatic agencies, systemic agency allows workflows to flexibly manage intricate sequences and unexpected challenges, demonstrating a robust capacity for problem-solving.
 
 Just as in biology and science fiction, I believe that all LMM interactions from single tasks to complex workflows show signs of agency. By focusing on how this agency scales with the complexity of the problem and solution space, we shift from drawing boundaries between abstract definitions of agents to assessing real-world effectiveness.
+
+??? danger "Caution"
+
+    There are plenty of sensible positions and people differentiating [task specific skills and intelligence](https://x.com/fchollet/status/1790194880490401795). However, without discounting their expertise and nuance, I don't find this view to be practical. If an LMM can eventually do many things a human can, and can increasingly provide useful answers to new and unexpected stimuli, why split conceptual hairs over the boundary between skill and intelligence?
 
 ## Hypothesis
 
