@@ -1,4 +1,233 @@
+!!! tip "Hypothesis"
+
+    A dedicated platform team accelerates AI value creation and capture for B2B SaaS companies
+
+Innovations are adopted quickly if they are easy to make, easy to use, fit existing patterns, and have visible results. Generative AI has abruptly changed the innovation landscape by acclerating the utility and availability of AI products and services.
+
+While the vast majority of consumers and companies do not make technology, they are actively searching for value in this space. Consequently, technology companies are trying to implement AI features that create value for their customers as fast as possible.
+
+The long tail of B2B SaaS companies have a unique set of challenges. They have enterprise client traction and skilled development teams but lack extra capital and in-house AI/ML resources, making it hard to bootstrap production grade AI capabilities and features.
+
+## Goals
+
+A dedicated platform team helps B2B SaaS companies stay competitive by quickly matching competitors advances and meeting client expectations for new experiences.
+
+This team drives innovation, positioning the company as a leader in AI, and reduces risk by providing systemic infrastructure and resources to prevent project failures.
+
+It specifically helps:
+
+1. Product teams launch AI features
+2. Business teams automate workflows
+3. Leaders unify AI strategy and voice
+4. Clients adopt third-party AI products
+
+## Purpose
+
+3. **Increase Profit**: Higher revenue and lower costs
+4. **Reduce Risk**: Provision infrastructure and resources to prevent AI project failures
+5. **Lead Change**: Become the sector leader
+
+## Ideas
+
+## External Resources
+
+- **Prefect**: See [Prefect](https://www.prefect.io/) for a nice implementation of task and flow primitives.
+- **Critic Framework for Agent Reflection**: [Critic Framework](https://arxiv.org/abs/2305.11738).
+- **Coala Framework for Agents**: [Coala Framework](https://arxiv.org/abs/2309.02427).
+- **Pipedream**: Check out [Pipedream](https://www.pipedream.com/) for a nice workflow UI and Zapier-like utility.
+- **Interesting Takes on UI**: [Ink & Switch](https://www.inkandswitch.com/).
+- **TEQSA Links**: [Higher Education Good Practice Hub](https://www.teqsa.gov.au/guides-resources/higher-education-good-practice-hub/artificial-intelligence).
+- **Marvin Minsky Article on AI Steps**: [AI Steps](https://courses.csail.mit.edu/6.803/pdf/steps.pdf).
+- **AI Design Patterns**: [Patterns 1](https://medium.com/towards-data-science/generative-ai-design-patterns-a-comprehensive-guide-41425a40d7d0), [Patterns 2](https://tomtunguz.com/ai-design-patterns/).
+
+- Our competitors are moving ahead of the curve.
+- Our clients are moving ahead of the curve and their expectations are high, especially educators.
+- Aligns with our mission.
+- Established emerging practices: Examples of what works in AI.
+- Textbook machine learning engineering: 86% of data projects fail due to missing data infrastructure and lack of support for a machine learning workstyle (see mlebook.com by Josh Cooper).
+- Antifragile needs a team for rolling with the waves.
+- Prepared to switch approaches and providers early.
+- 5. Most people trust peer reviews over scientific studies.
+
+## Thoughts and Considerations
+
+- Focus on how to implement AI in organizations.
+- B2B > B2C focus.
+- Deep dive into edtech and workflows.
+- Involve Wardley maps.
+- Explore Everett Rogers' diffusion of innovation theories.
+- Machine futures and emerging tech.
+
+## Strategy and Mental Models
+
+### Vincent Koc
+
+![Industrial Revolution](assets/machine_users_5.png)
+![Allocation Economy](assets/machine_users_6.png)
+![More Industrial Revolution](assets/machine_users_7.png)
+![AI Product Wave](assets/machine_users_8.png)
+![Sexy and Boring Usecases](assets/machine_users_9.png)
+
+- **Key Insights**:
+  - Cost reductions (e.g., OpenAI costs reduced by 35x in 2023).
+  - Generational expectations of agentic/avataric assistants.
+  - Potential new revenue streams from AI-generated products.
+
+### Chief Data Scientist at Domain
+
+![Current State 1](assets/machine_users_10.png)
+![Current State 2](assets/machine_users_11.png)
+![Current State 3](assets/machine_users_12.png)
+![Current State 4](assets/machine_users_13.png)
+
+- **Current State**:
+  - Rapid interaction for investment properties.
+  - AI capturing multiple intents quickly.
+  - AI safety industry emergence.
+
+### AI Jason from Relevance
+
+![Agents 1](assets/machine_users_14.png)
+![Agents 2](assets/machine_users_15.png)
+![Agents 3](assets/machine_users_16.png)
+![Agents 4](assets/machine_users_17.png)
+
+- **AI Agents Impact**:
+  - Changing task unit economy.
+
+## Machine Users Classification
+
 ![Machine Users](assets/machine_users_4.png)
+
+### Classification
+
+- **Decision Complexity**: Capability for making decisions, from basic to advanced.
+- **Relational Dynamics**: Level of interaction with the environment or humans.
+
+### Quadrants
+
+1. **Twins**: Advanced simulations with complex decisions and dynamic interactions.
+2. **Avatars**: Digital representations with meaningful interactions but limited decision-making.
+3. **Bots**: Perform automated, repetitive tasks with minimal interaction.
+4. **Agents**: Perform complex tasks autonomously with limited interaction.
+
+### Misclassification Examples
+
+- **Automated News Reader**: A bot due to lack of interactivity despite human-like speech.
+- **Virtual Museum Guide**: An agent if it follows a script without engaging with visitors' questions.
+
+## Education Strategy / Edtech
+
+![Education Market Map from A16z](assets/machine_users_4.jpg)
+
+### Key Features
+
+1. Multimodal ability.
+2. New interfaces.
+3. Consumer first, B2B.
+4. Hyper-specialized products.
+
+### Companies to Consider
+
+| Company                                                                             | Description                           |
+| ----------------------------------------------------------------------------------- | ------------------------------------- |
+| [Sizzle AI](https://web.szl.ai/)                                                    | Multimodal, step-by-step tutor        |
+| [Curio](https://heycurio.com/)                                                      | Toys come to life                     |
+| [Magic School](https://www.magicschool.ai/)                                         | AI assistant for educators            |
+| [Iago](https://getiago.com/extension)                                               | Learn Japanese while watching anime   |
+| [Edsoma](https://www.edsoma.com/)                                                   | AI reading assistant                  |
+| [Bed Fables](https://www.bedfables.com/)                                            | Create children's stories with AI     |
+| [Matchbooks AI](https://matchbooks.ai/)                                             | Create children's stories with AI     |
+| [StoryWizard AI](https://www.storywizard.ai/)                                       | Create children's stories with AI     |
+| [Koaluh](https://x.com/koalluh?s=20)                                                | Create children's stories with AI     |
+| [StoryBird AI](https://www.storybird.ai/)                                           | Create children's stories with AI     |
+| [Coco](https://coco.build/)                                                         | Co-create creative projects with kids |
+| [Pratika](https://praktika.ai/)                                                     | Language learning                     |
+| [Lingostar](https://www.lingostar.ai/)                                              | Language learning                     |
+| [Timekettle](https://www.timekettle.co/)                                            | Translation hardware                  |
+| [TalkPal](https://talkpal.ai/)                                                      | Language learning                     |
+| [Elsa](https://elsaspeak.com/en/)                                                   | Language learning                     |
+| [BoldVoice](https://apps.apple.com/us/app/boldvoice-pronunciation-app/id1567841142) | Language learning                     |
+| [Yoodli](https://app.yoodli.ai/)                                                    | Language/Communication learning       |
+| [Fluently](https://fluently.so/)                                                    | Multilingual writing                  |
+| [Stimuler](https://www.stimuler.tech/)                                              | Language/Communication learning       |
+| [Cramly](https://www.cramly.ai/)                                                    | Study tutor                           |
+| [Studdy](https://studdy.ai/)                                                        | Study tutor                           |
+| [Foondamate](https://foondamate.com/)                                               | Study tutor                           |
+| [Chiron](https://projectchiron.org/)                                                | Math education                        |
+| [Whiteboard AI](https://www.mywhiteboard.ai/)                                       | Study aid                             |
+| [Gizmo](https://gizmo.ai/)                                                          | Study aid                             |
+| [Wizdolia](https://www.wisdolia.com/)                                               | Study aid                             |
+| [Caktus](https://caktus.ai/)                                                        | Study aid                             |
+| [Kinnu](https://kinnu.xyz/)                                                         | Study aid                             |
+| [Quizlet](https://quizlet.com/gb)                                                   | Study aid                             |
+| [Elicit](https://elicit.com/)                                                       | Research                              |
+| [Humata](https://www.humata.ai/)                                                    | Research                              |
+| [Scite](https://scite.ai/)                                                          | Research                              |
+| [Genei](https://www.genei.io/)                                                      | Research                              |
+| [Cerelyze](https://x.com/humanloop/status/1693997168498237449?s=20)                 | Research                              |
+| [Typeset](https://www.typeset.com/)                                                 | Writing                               |
+| [MindGrasp](https://mindgrasp.ai/)                                                  | Study aid                             |
+| [Wonders](https://readwonders.com/)                                                 | Research                              |
+| [Synaptiq](https://synaptiq.co/)                                                    | Study aid for medicine                |
+| [Typeset Science](https://typeset.io/)                                              | Research                              |
+| [Causaly](https://www.causaly.com/)                                                 | Research                              |
+| [Brisk Teaching](https://www.briskteaching.com/)                                    | Teaching aid                          |
+| [ProfJim](https://profjim.com/)                                                     | Teaching aid                          |
+| [Curipod](https://curipod.com/)                                                     | Teaching aid                          |
+| [Class Companion](https://classcompanion.com/)                                      | Teaching aid                          |
+| [Pressto](https://www.joinpressto.com/)                                             | Teaching aid                          |
+| [Merlyn Mind](https://www.merlynmind.ai/)                                           | Teaching agents                       |
+| [Nolej](https://nolej.io/)                                                          | Teaching aid                          |
+| [Memorang](https://memorang.com/)                                                   | AI platform                           |
+| [Quench](https://quench.ai/)                                                        | Turn content into copilot             |
+| [Flintk12](https://www.flintk12.com/)                                               | School platform                       |
+| [SchoolAI](https://schoolai.com/)                                                   | School platform                       |
+| [Atypical](https://www.atypicalai.com/)                                             | No idea what this does                |
+| [Kira](https://kirasystems.com/)                                                    | Contract review                       |
+| [Vexis](https://vexisai.com/)                                                       | Grading                               |
+| [SparkStudio](https://sparkstudio.ai/)                                              | Language learning                     |
+| [Edmachina](https://edmachina.com/)                                                 | Retention AI                          |
+| [Radius](https://radiusglobal.io/)                                                  | Admissions                            |
+| [Extra Edge](https://www.extraaedge.com/)                                           | Marketing and admissions              |
+| [Enrol ML](https://www.enrollml.com/)                                               | Admissions                            |
+| [Admit Yogi](https://admityogi.com/)                                                | Admissions                            |
+| [College Advisor](https://www.collegeadvisor.com/)                                  | Admissions                            |
+
+## Employee Substitute Companies
+
+| Company                                           | Description        |
+| ------------------------------------------------- | ------------------ |
+| [Cognition Labs](https://www.cognition-labs.com/) | Software engineer  |
+| [Version Lens](https://www.versionlens.com/)      | Product manager    |
+| [Magic](https://magic.dev/)                       | Software engineer  |
+| [TextQL](https://www.textql.com/)                 | Data scientist     |
+| [Fluent](https://www.fluenthq.com/)               | Data analyst       |
+| [Mindy](https://mindy.com/)                       | Chief of staff     |
+| [Ema](https://www.ema.co/)                        | Universal employee |
+| [Finpilot](https://www.finpilotai.com/)           | Financial analyst  |
+| [Rogo](https://www.rogodata.com/)                 | Financial analyst  |
+| [Norm AI](https://www.norm.ai/)                   | Compliance         |
+| [Arini](https://www.arini.ai/)                    | Receptionist       |
+| [Casca](https://www.cascading.ai/)                | Loan officer       |
+| [Runnr](https://runnr.ai/)                        | Hotel concierge    |
+| [Sevn](https://app.sevn.ai/)                      | Designer           |
+| [Sierra](https://sierra.ai/)                      | Customer support   |
+| [Rasa](https://rasa.com/)                         | Customer support   |
+
+## Approach
+
+1. Get it working.
+2. Get it right.
+3. Get it to scale.
+
+Source: [Make It Work, Make It Right, Make It Fast](https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast).
+
+---
+
+![Machine Users](assets/machine_users_4.png)
+
+- comfort with autonomy is also a thing that is unclear for now because users take time to get adjusted to this.
 
 ## AI Platform
 
@@ -21,6 +250,10 @@
 ##
 
 - prepared to swith. approaches and providers early.
+
+## Prefect
+
+See -> https://www.prefect.io/ for a nice implementation of task and flow primitives
 
 ##
 

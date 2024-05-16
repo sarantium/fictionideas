@@ -87,7 +87,9 @@ In the simplest interactions, an LMM processing a single request demonstrates mo
 
 When LMMs scale from specific tasks towards iterative for-loops - repeating tasks with minor variations - they exhibit rhizomatic agency, inspired by Deleuze and Guattari's concept of endlessly branching structures. Each cycle allows the LLM to subtly adjust its responses, by reading the message history and drawing on the outcomes of previous iterations. This ongoing adaptation distinguishes it from mindless repetition.
 
-Moving to more complex scenarios, LMMs in workflows exhibit systemic agency. These systems coordinate multiple processes to handle complex tasks that surpass the abilities of individual components. This coordination enhances decision-making and outcomes. Unlike the transient and adaptive behaviors of momentary and rhizomatic agencies, systemic agency allows workflows to flexibly manage intricate sequences and unexpected challenges, demonstrating a robust capacity for problem-solving.
+Moving to more complex scenarios, LMMs in workflows exhibit systemic agency. These systems coordinate multiple processes to handle complex tasks that surpass the abilities of individual components. This coordination enhances decision-making and outcomes.
+
+Unlike the transient and adaptive behaviors of momentary and rhizomatic agencies, systemic agency allows workflows to flexibly manage intricate sequences and unexpected challenges, demonstrating a robust capacity for problem-solving.
 
 Just as in biology and science fiction, I believe that all LMM interactions from single tasks to complex workflows show signs of agency. By focusing on how this agency scales with the complexity of the problem and solution space, we shift from drawing boundaries between abstract definitions of agents to assessing real-world effectiveness.
 
@@ -111,5 +113,3 @@ I believe the speed, cost and quality improvements offered by agents provides a 
 - shift the default response from no to yes<sup>[8](https://x.com/clairevo/status/1774451083622191400)<sup>
 - log audit trails for previously implicit thoughts and actions
 - weave creative and compelling narratives
-
-See -> https://www.prefect.io/ for a nice implementation of task and flow primitives
