@@ -18,16 +18,54 @@ It specifically helps:
 
 1. Product teams launch AI features
 2. Business teams automate workflows
-3. Leaders unify AI strategy and voice
+3. Leaders unify AI strategy, standards and voice
 4. Clients adopt third-party AI products
+5. Staff upskill AI knowledge and skills
 
-## Purpose
+Ultimately, platform teams shape organisational culture, ensuring that responsibility and enthusiasm for AI are shared by everyone, not just a small group of evangelists.
 
-3. **Increase Profit**: Higher revenue and lower costs
-4. **Reduce Risk**: Provision infrastructure and resources to prevent AI project failures
-5. **Lead Change**: Become the sector leader
+Good platform teams function as skunkworks, rapid execution engines, and guardrails, ensuring the company quickly and safely integrates AI across all operations in order to benefit clients and establish AI leadership amongst competitors.
 
 ## Ideas
+
+When bootstrapping platform teams, only speed and outcomes matter. Fast, cheap value creation determines whether platforms continue or are killed off because resources are limited, track records nonexistent and executive patience is thin.
+
+Additionally, platform teams must act for all functions and departments. Specifically, they should tackle cross disciplinary needs - at least product, design and engineering to start with - and champion fairness - equitable platform access to all products - as foundational principles for success.
+
+In this environment, prioritisation is king and selecting the correct set of valuable and feasible initiatives to iterate on and build company confidence is crucial.
+
+### Goal 1 : Help product teams launch AI features
+
+| Sub goal          | Ideas                                               | Impact | Confidence | Effort |
+| ----------------- | --------------------------------------------------- | ------ | ---------- | ------ |
+| 1 day PRD         | Idea bank that monitors competitor AI features etc. |        |            |        |
+| 1 week Prototype  |                                                     |        |            |        |
+| 2 week MVP        |                                                     |        |            |        |
+| 4 week Production |                                                     |        |            |        |
+| 1 week            |                                                     |        |            |        |
+
+The list below sequences and categorises a core set of ideas for new platform teams to tackle.
+
+- deal desk rubric to select projects, cst hem etc.
+- probabilistic software infrastructure
+
+## Trends
+
+As platform teams mature, the following are a list of key trends to keep in mind.
+
+- Dramatic cost reductions are expected along with increased capital allocation as an ongoing part of budgets (e.g. OpenAI costs reduction)
+- Generational change in user behaviour as it comes to agentic/avataric applications
+- New revenue streams from AI products
+- Boring, high value use cases in automation will proliferate
+
+![Sexy and Boring Usecases](assets/machine_users_9.png)
+
+- **AI Agents Impact**:
+  - Changing task unit economy.
+
+## Machine Users Classification
+
+![Machine Users](assets/machine_users_4.png)
 
 ## External Resources
 
@@ -48,56 +86,6 @@ It specifically helps:
 - Antifragile needs a team for rolling with the waves.
 - Prepared to switch approaches and providers early.
 - 5. Most people trust peer reviews over scientific studies.
-
-## Thoughts and Considerations
-
-- Focus on how to implement AI in organizations.
-- B2B > B2C focus.
-- Deep dive into edtech and workflows.
-- Involve Wardley maps.
-- Explore Everett Rogers' diffusion of innovation theories.
-- Machine futures and emerging tech.
-
-## Strategy and Mental Models
-
-### Vincent Koc
-
-![Industrial Revolution](assets/machine_users_5.png)
-![Allocation Economy](assets/machine_users_6.png)
-![More Industrial Revolution](assets/machine_users_7.png)
-![AI Product Wave](assets/machine_users_8.png)
-![Sexy and Boring Usecases](assets/machine_users_9.png)
-
-- **Key Insights**:
-  - Cost reductions (e.g., OpenAI costs reduced by 35x in 2023).
-  - Generational expectations of agentic/avataric assistants.
-  - Potential new revenue streams from AI-generated products.
-
-### Chief Data Scientist at Domain
-
-![Current State 1](assets/machine_users_10.png)
-![Current State 2](assets/machine_users_11.png)
-![Current State 3](assets/machine_users_12.png)
-![Current State 4](assets/machine_users_13.png)
-
-- **Current State**:
-  - Rapid interaction for investment properties.
-  - AI capturing multiple intents quickly.
-  - AI safety industry emergence.
-
-### AI Jason from Relevance
-
-![Agents 1](assets/machine_users_14.png)
-![Agents 2](assets/machine_users_15.png)
-![Agents 3](assets/machine_users_16.png)
-![Agents 4](assets/machine_users_17.png)
-
-- **AI Agents Impact**:
-  - Changing task unit economy.
-
-## Machine Users Classification
-
-![Machine Users](assets/machine_users_4.png)
 
 ### Classification
 
