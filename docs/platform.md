@@ -10,7 +10,7 @@ The long tail of B2B SaaS companies have a unique set of challenges. They have e
 
 ## Goals
 
-A dedicated platform team helps B2B SaaS companies stay competitive by quickly matching competitors advances and meeting client expectations for new experiences.
+A dedicated platform team helps B2B SaaS companies stay competitive by quickly matching competitors' advances and meeting client expectations for new experiences.
 
 This team drives innovation, positioning the company as a leader in AI, and reduces risk by providing systemic infrastructure and resources to prevent project failures.
 
@@ -30,7 +30,9 @@ Good platform teams function as skunkworks, rapid execution engines, and guardra
 
 When bootstrapping platform teams, only speed and outcomes matter. Fast, cheap value creation determines whether platforms continue or are killed off because resources are limited, track records nonexistent and executive patience is thin.
 
-Additionally, platform teams must act for all functions and departments. Specifically, they should tackle cross disciplinary needs - at least product, design and engineering to start with - and champion fairness - equitable platform access to all products - as foundational principles for success.
+Platform teams must act for all functions and departments in a B2B SaaS company. They should tackle cross disciplinary needs - at least product, design and engineering to start with - and champion fairness - equitable platform access to all products - as foundational principles for success.
+
+Focusing on both technical tooling and service delivery is important, as the latter reduces early bottlenecks the most.
 
 In this environment, prioritisation is king and selecting the correct set of valuable and feasible initiatives to iterate on and build company confidence is crucial.
 
@@ -39,7 +41,7 @@ In this environment, prioritisation is king and selecting the correct set of val
 | Sub goal          | Ideas                                               | Impact | Confidence | Effort |
 | ----------------- | --------------------------------------------------- | ------ | ---------- | ------ |
 | 1 day PRD         | Idea bank that monitors competitor AI features etc. |        |            |        |
-| 1 week Prototype  |                                                     |        |            |        |
+| 1 week Prototype  | Feature spec and Jira tickets                       |        |            |        |
 | 2 week MVP        |                                                     |        |            |        |
 | 4 week Production |                                                     |        |            |        |
 | 1 week            |                                                     |        |            |        |
