@@ -77,6 +77,17 @@ The list below sequences and categorises a core set of ideas for new platform te
 
   - An over all evaluation rubric
   - making it more suited to a regular machine learning workflow
+  - prioritise teams that are already doing something
+
+  ? what about talking to customer.
+
+  Still have a gap where they are looking to update the infrastructure.
+  When they want to generate these documents => might require some complicated RAG.
+
+  - making sure that centralising anything doesn't squash action. If a team has an idea they want to do that, they are not going to do that they are going to get there alot faster. Ties into a technical strategy
+    => Needs a faster way to spin up services. Have a separate SRE team. Set up a separate service so that it is isolated and we don't have to worry about existing infrastructure that is secure and authenticated and everytim you have to come up with a new service. consult with the SRE team to do this. put up something serverless. 95% of AI use cases have similar infrastructure needs, a container, serverless etc. Need buy-in from the SRE team.
+
+  => peacetime vs wartime companies => table for different sort of approaches. Wartime company might be a startup moving to an IPO, made me think that AI stuff is wartime stuff and a wartime scenario. Will be adopted by whoever is in the market first.
 
 ## Trends
 
