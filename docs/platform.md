@@ -38,18 +38,45 @@ In this environment, prioritisation is king and selecting the correct set of val
 
 ### Goal 1 : Help product teams launch AI features
 
-| Sub goal          | Ideas                                               | Impact | Confidence | Effort |
-| ----------------- | --------------------------------------------------- | ------ | ---------- | ------ |
-| 1 day PRD         | Idea bank that monitors competitor AI features etc. |        |            |        |
-| 1 week Prototype  | Feature spec and Jira tickets                       |        |            |        |
-| 2 week MVP        |                                                     |        |            |        |
-| 4 week Production |                                                     |        |            |        |
-| 1 week            |                                                     |        |            |        |
+| Step | Goal                            | Current Bottleneck                                                                                                                 | Artifact/Build Outcome                                                                                                                        | Platform Team Support                                                                                                                                                                                                                       |
+| ---- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | **Write PRD in 1 day**          | **Lack of Expertise**: Teams may lack AI knowledge to identify feasible opportunities and articulate them effectively.             | **Product Requirements Document (PRD)**: Comprehensive document detailing AI feature ideas, user needs, and proposed solutions.               | **Idea Bank and PRD Generator**: Maintain an idea bank that scans competitor and research feeds and is continually updated. Provide a custom GPT to auto-generate a PRD with minimal context from the PM.                                   |
+| 2    | **Build Prototype in 1 week**   | **Resource Intensive**: Creating a prototype requires significant time and resources, especially without in-house AI expertise.    | **Prototype**: An early version of the AI feature for demonstration and initial testing purposes.                                             | **Prototyping Tools and Support**: Offer pre-built modules, libraries, and infrastructure for rapid prototyping, along with technical support and access to shared development environments.                                                |
+| 3    | **Create Pitch Deck in 1 day**  | **Approval Delays**: Gaining executive approval can be time-consuming, delaying project progression.                               | **Pitch Deck**: A concise, visually engaging presentation summarizing the AI project, prototype, goals, benefits, and required resources.     | **Executive Communication Templates**: Provide pitch deck templates, data visualization tools, and a repository of key metrics and case studies to support compelling presentations.                                                        |
+| 4    | **Build AI Feature in 2 weeks** | **Iterative Process**: Development and integration require significant experimentation, tuning, and technical expertise.           | **Trained AI Model**: The fully developed AI model integrated into the product, ready for final testing and deployment.                       | **Development and Integration Support**: Supply optimized development environments, automated training pipelines, integration frameworks, and a common observability platform for monitoring and debugging.                                 |
+| 5    | **Compliance Check in 1 week**  | **Compliance Complexity**: Navigating the complex landscape of AI regulations and standards can be challenging and time-consuming. | **Compliance Report**: Detailed assessment of the AI feature's compliance with relevant regulations and standards.                            | **RAG Database and Compliance Tools**: Create a Retrieval Augmented Generation (RAG) database of compliance requirements for AI, along with tools for auto-evaluating the PRD against these requirements and generating compliance reports. |
+| 6    | **Develop GTM Plan in 1 week**  | **Market Readiness**: Ensuring the market is prepared and the product meets customer expectations can be challenging.              | **GTM Plan**: Detailed strategy outlining marketing, sales, and customer support plans for the AI feature launch.                             | **GTM Resources and Insights**: Share market research, user personas, best practices for AI product launches, and tools for tracking market readiness and customer feedback.                                                                |
+| 7    | **Launch AI Feature in 1 day**  | **Operational Overheads**: Continuous monitoring and maintenance add to operational efforts.                                       | **Deployed AI Feature**: The AI feature is live in production, with systems in place for monitoring performance and collecting user feedback. | **Monitoring and Feedback Tools**: Implement monitoring systems, feedback loops, and dashboards to track performance metrics, user engagement, and identify areas for improvement.                                                          |
 
 The list below sequences and categorises a core set of ideas for new platform teams to tackle.
 
 - deal desk rubric to select projects, cst hem etc.
 - probabilistic software infrastructure
+
+## Josh's Ideas
+
+- What would be timeline for a new feature. What would a sprint look like? What is the capacity of the team
+- Some govt and justice product needs an AI feature
+- do advanced AI stuff without needing a yearlong project
+- What would you need to do to enable a team to enable the most simple thing like a summarisation feature => do we need an experimentation capability
+- automatic evaluation
+- what models to use
+- what metrics to have
+- observability platform
+- take Admissions approach and generalise it
+- How would you take it and generalise it ?
+
+  - data sovereignty - map n data privacy issues
+  - techniques for passing secure endpoints. clear understanding of what goes where. privacy guarantees
+  - if you had a understanding of privacy constraints you could map that - technical infrastructure and techniques
+  - tools and assistance on working with synthetic data how to make sure it is reliable and some tooling
+  - centralising tooling is a difficult problem to solve
+  - advanced techniques available to a product regardless of expertise
+  - really good framework to reduce the costs of LLMs => can document that, write up actual code
+  - benefit of centralising AI expertise
+
+  - An over all evaluation rubric
+  - making it more suited to a regular machine learning workflow
 
 ## Trends
 
