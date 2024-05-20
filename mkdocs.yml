@@ -61,10 +61,10 @@ nav:
   - Productivity: productivity.md
   - Creativity: creativity.md
   - Workflows:
-      - Code: w0.md
-      - Goal Agent: w1.md
-      - Plan Agent: w2.md
-      - One Hour PM: kiln.md
+      - Tips: flows/w0.md
+      - Goal Agent: flows/w1.md
+      - Plan Agent: flows/w2.md
+      - One Hour PM: flows/kiln.md
   # - Concepts: concepts.md
   # - Evaluation: evaluation.ipynb
   # - One Hour PM: onehourpm.md

@@ -1,12 +1,14 @@
-!!! tip "Hypothesis"
-
-    A dedicated platform team accelerates AI value creation and capture for B2B SaaS companies
+![Platform](assets/platform_1.webp)
 
 Innovations are adopted quickly if they are easy to make, easy to use, fit existing patterns, and have visible results. Generative AI has abruptly changed the innovation landscape by acclerating the utility and availability of AI products and services.
 
 While the vast majority of consumers and companies do not make technology, they are actively searching for value in this space. Consequently, technology companies are trying to implement AI features that create value for their customers as fast as possible.
 
 The long tail of B2B SaaS companies have a unique set of challenges. They have enterprise client traction and skilled development teams but lack extra capital and in-house AI/ML resources, making it hard to bootstrap production grade AI capabilities and features.
+
+!!! tip "Hypothesis"
+
+    A dedicated platform team accelerates AI value creation and capture for B2B SaaS companies
 
 ## Goals
 
@@ -20,7 +22,7 @@ It specifically helps:
 2. Business teams automate workflows
 3. Leaders unify AI strategy, standards and voice
 4. Clients adopt third-party AI products
-5. Staff upskill AI knowledge and skills
+5. Staff upskill AI fluency
 
 Ultimately, platform teams shape organisational culture, ensuring that responsibility and enthusiasm for AI are shared by everyone, not just a small group of evangelists.
 
@@ -36,6 +38,10 @@ Focusing on both technical tooling and service delivery is important, as the lat
 
 In this environment, prioritisation is king and selecting the correct set of valuable and feasible initiatives to iterate on and build company confidence is crucial.
 
+**Need a section on objections to platform teams/straw man arguments**
+
+**Part of the role is buy versus build**
+
 ### Goal 1 : Help product teams launch AI features
 
 | Step | Goal                            | Current Bottleneck                                                                                                                 | Artifact/Build Outcome                                                                                                                        | Platform Team Support                                                                                                                                                                                                                       |
@@ -43,7 +49,7 @@ In this environment, prioritisation is king and selecting the correct set of val
 | 1    | **Write PRD in 1 day**          | **Lack of Expertise**: Teams may lack AI knowledge to identify feasible opportunities and articulate them effectively.             | **Product Requirements Document (PRD)**: Comprehensive document detailing AI feature ideas, user needs, and proposed solutions.               | **Idea Bank and PRD Generator**: Maintain an idea bank that scans competitor and research feeds and is continually updated. Provide a custom GPT to auto-generate a PRD with minimal context from the PM.                                   |
 | 2    | **Build Prototype in 1 week**   | **Resource Intensive**: Creating a prototype requires significant time and resources, especially without in-house AI expertise.    | **Prototype**: An early version of the AI feature for demonstration and initial testing purposes.                                             | **Prototyping Tools and Support**: Offer pre-built modules, libraries, and infrastructure for rapid prototyping, along with technical support and access to shared development environments.                                                |
 | 3    | **Create Pitch Deck in 1 day**  | **Approval Delays**: Gaining executive approval can be time-consuming, delaying project progression.                               | **Pitch Deck**: A concise, visually engaging presentation summarizing the AI project, prototype, goals, benefits, and required resources.     | **Executive Communication Templates**: Provide pitch deck templates, data visualization tools, and a repository of key metrics and case studies to support compelling presentations.                                                        |
-| 4    | **Build AI Feature in 2 weeks** | **Iterative Process**: Development and integration require significant experimentation, tuning, and technical expertise.           | **Trained AI Model**: The fully developed AI model integrated into the product, ready for final testing and deployment.                       | **Development and Integration Support**: Supply optimized development environments, automated training pipelines, integration frameworks, and a common observability platform for monitoring and debugging.                                 |
+| 4    | **Build AI Feature in 6 weeks** | **Iterative Process**: Development and integration require significant experimentation, tuning, and technical expertise.           | **Trained AI Model**: The fully developed AI model integrated into the product, ready for final testing and deployment.                       | **Development and Integration Support**: Supply optimized development environments, automated training pipelines, integration frameworks, and a common observability platform for monitoring and debugging.                                 |
 | 5    | **Compliance Check in 1 week**  | **Compliance Complexity**: Navigating the complex landscape of AI regulations and standards can be challenging and time-consuming. | **Compliance Report**: Detailed assessment of the AI feature's compliance with relevant regulations and standards.                            | **RAG Database and Compliance Tools**: Create a Retrieval Augmented Generation (RAG) database of compliance requirements for AI, along with tools for auto-evaluating the PRD against these requirements and generating compliance reports. |
 | 6    | **Develop GTM Plan in 1 week**  | **Market Readiness**: Ensuring the market is prepared and the product meets customer expectations can be challenging.              | **GTM Plan**: Detailed strategy outlining marketing, sales, and customer support plans for the AI feature launch.                             | **GTM Resources and Insights**: Share market research, user personas, best practices for AI product launches, and tools for tracking market readiness and customer feedback.                                                                |
 | 7    | **Launch AI Feature in 1 day**  | **Operational Overheads**: Continuous monitoring and maintenance add to operational efforts.                                       | **Deployed AI Feature**: The AI feature is live in production, with systems in place for monitoring performance and collecting user feedback. | **Monitoring and Feedback Tools**: Implement monitoring systems, feedback loops, and dashboards to track performance metrics, user engagement, and identify areas for improvement.                                                          |
@@ -52,6 +58,23 @@ The list below sequences and categorises a core set of ideas for new platform te
 
 - deal desk rubric to select projects, cst hem etc.
 - probabilistic software infrastructure
+
+=> smallest AI feature is 2 weeks. largest is like 8 weeks.
+=> war room approach
+=> there is a hypercare phase
+=> one potential missing part is how to long term support/ongoing maintenance. How will the teams themselves support BAU.
+=> Don;t think there is a way to avoid upskilling
+=> How to understandt the metrics. What to do if someting goes wrong. "We can't do this because the team can't support it" There's no avoiding having to upskill. We need 200 AI engineers not 5.
+
+=> really good to focus on material benefit => saves hours of time. Change the perception that it's not just new technology. We can't afford not to have.
+
+- Build AI feature in 6 weeks
+  - observability tooling
+  - shared AI services
+    - wrapper around LLm calls, observability etc. for free
+    - abstract technical infra around advanced features e.g. RAG
+    - provide the ability to code bespoke features using best available tooling -> e.g. easy access to python and best available libraries
+    - AI infrastructure and tooling as a service
 
 ## Josh's Ideas
 
@@ -106,6 +129,8 @@ As platform teams mature, the following are a list of key trends to keep in mind
 ## Machine Users Classification
 
 ![Machine Users](assets/machine_users_4.png)
+
+https://www.linkedin.com/pulse/how-do-you-market-fridge-algorithm-whisperer-timo-elliott-7xhhe/?trackingId=zAu8gTg6%2FuIHcK5OK6zOsA%3D%3D
 
 ## External Resources
 
