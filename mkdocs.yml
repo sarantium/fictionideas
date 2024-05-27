@@ -44,10 +44,6 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
 
-plugins:
-  - mkdocs-jupyter:
-      ignore_h1_titles: True
-
 copyright: Copyright &copy; 2023-2024 Ashvin Parameswaran
 
 extra:
@@ -57,19 +53,14 @@ extra:
 
 nav:
   - Home: README.md
-  - Platform: platform.md
   - Productivity: productivity.md
   - Creativity: creativity.md
+  - Patterns: pattern.md
+  - Platform: platform.md
   - Workflows:
-      - Tips: flows/w0.md
       - Goal Agent: flows/w1.md
       - Plan Agent: flows/w2.md
       - One Hour PM: flows/kiln.md
-  # - Concepts: concepts.md
-  # - Evaluation: evaluation.ipynb
-  # - One Hour PM: onehourpm.md
-  # - Evaluation_1: evaluation_1.ipynb
-  # - Trisociations: experiment_1.ipynb
   - Stories:
       - GlimmerCraft: stories/1.md
       - ChronoCuisine: stories/2.md

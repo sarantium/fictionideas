@@ -47,6 +47,10 @@ Agent workflows foreground opportunities for semi-autonomous tool use. This modi
 
 ![Modified GIST](assets/gist_2.png)
 
+Tasks are the building blocks of action, and they can be broken down into smaller, more manageable tasks. Flows are sequences of these tasks that create a pathway to achieve goals.
+
+A task can be part of a larger flow, and flows can nest within other flows, providing a flexible and hierarchical structure for managing complex processes.
+
 Tools can take two forms: tools for thought and tools for action. Tools for thought are persistent state objects like the already mentioned design thinking documents.
 
 Tools for action are functions that process input, manipulate data and return a result - like calling a weather API to get the forecast for my current location. Tools for thought focus on representation while tools for action focus on transformation.

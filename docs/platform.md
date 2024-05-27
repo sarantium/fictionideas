@@ -1,28 +1,25 @@
 ![Platform](assets/platform_1.webp)
 
-Innovations are adopted quickly if they are easy to make, easy to use, fit existing patterns, and have visible results. Generative AI has abruptly changed the innovation landscape by acclerating the utility and availability of AI products and services.
+Innovations are adopted quickly if they are easy to make, easy to use, fit existing patterns, and have visible results. Generative AI has abruptly changed the innovation landscape by accelerating the utility and availability of AI products and services.
 
 While the vast majority of consumers and companies do not make technology, they are actively searching for value in this space. Consequently, technology companies are trying to implement AI features that create value for their customers as fast as possible.
 
-The long tail of B2B SaaS companies have a unique set of challenges. They have enterprise client traction and skilled development teams but lack extra capital and in-house AI/ML resources, making it hard to bootstrap production grade AI capabilities and features.
-
-!!! tip "Hypothesis"
-
-    A dedicated platform team accelerates AI value creation and capture for B2B SaaS companies
+The long tail of B2B SaaS companies has a unique set of challenges. Many of these companies have enterprise client traction and skilled development teams but lack extra capital and in-house AI/ML resources, making it hard to bootstrap production grade AI capabilities and features.
 
 ## Goals
 
 A dedicated platform team helps B2B SaaS companies stay competitive by quickly matching competitors' advances and meeting client expectations for new experiences.
 
-This team drives innovation, positioning the company as a leader in AI, and reduces risk by providing systemic infrastructure and resources to prevent project failures.
+This team drives innovation, positions the company as a leader in AI, and reduces risk by providing systemic infrastructure and resources to prevent project failures.
 
 It specifically helps:
 
-1. Product teams launch AI features
-2. Business teams automate workflows
-3. Leaders unify AI strategy, standards and voice
-4. Clients adopt third-party AI products
-5. Staff upskill AI fluency
+- Product teams launch AI features
+- Business teams automate workflows
+- Leaders unify AI strategy, standards and voice
+- Managers make data-driven decisions
+- Clients adopt third-party AI products
+- Staff upskill AI literacy and fluency
 
 Ultimately, platform teams shape organisational culture, ensuring that responsibility and enthusiasm for AI are shared by everyone, not just a small group of evangelists.
 
@@ -35,25 +32,137 @@ When bootstrapping platform teams, only speed and outcomes matter. Fast, cheap v
 Platform teams must act for all functions and departments in a B2B SaaS company. They should tackle cross disciplinary needs - at least product, design and engineering to start with - and champion fairness - equitable platform access to all products - as foundational principles for success.
 
 Focusing on both technical tooling and service delivery is important, as the latter reduces early bottlenecks the most.
-
 In this environment, prioritisation is king and selecting the correct set of valuable and feasible initiatives to iterate on and build company confidence is crucial.
 
-**Need a section on objections to platform teams/straw man arguments**
-
-**Part of the role is buy versus build**
+Platform teams empower executives with a robust reporting framework that simplifies tracking, optimises resource allocation, and sharpens decision-making regarding AI initiatives.
 
 ### Goal 1 : Help product teams launch AI features
 
-| Step | Goal                            | Current Bottleneck                                                                                                                 | Artifact/Build Outcome                                                                                                                        | Platform Team Support                                                                                                                                                                                                                       |
-| ---- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | **Write PRD in 1 day**          | **Lack of Expertise**: Teams may lack AI knowledge to identify feasible opportunities and articulate them effectively.             | **Product Requirements Document (PRD)**: Comprehensive document detailing AI feature ideas, user needs, and proposed solutions.               | **Idea Bank and PRD Generator**: Maintain an idea bank that scans competitor and research feeds and is continually updated. Provide a custom GPT to auto-generate a PRD with minimal context from the PM.                                   |
-| 2    | **Build Prototype in 1 week**   | **Resource Intensive**: Creating a prototype requires significant time and resources, especially without in-house AI expertise.    | **Prototype**: An early version of the AI feature for demonstration and initial testing purposes.                                             | **Prototyping Tools and Support**: Offer pre-built modules, libraries, and infrastructure for rapid prototyping, along with technical support and access to shared development environments.                                                |
-| 3    | **Create Pitch Deck in 1 day**  | **Approval Delays**: Gaining executive approval can be time-consuming, delaying project progression.                               | **Pitch Deck**: A concise, visually engaging presentation summarizing the AI project, prototype, goals, benefits, and required resources.     | **Executive Communication Templates**: Provide pitch deck templates, data visualization tools, and a repository of key metrics and case studies to support compelling presentations.                                                        |
-| 4    | **Build AI Feature in 6 weeks** | **Iterative Process**: Development and integration require significant experimentation, tuning, and technical expertise.           | **Trained AI Model**: The fully developed AI model integrated into the product, ready for final testing and deployment.                       | **Development and Integration Support**: Supply optimized development environments, automated training pipelines, integration frameworks, and a common observability platform for monitoring and debugging.                                 |
-| 5    | **Compliance Check in 1 week**  | **Compliance Complexity**: Navigating the complex landscape of AI regulations and standards can be challenging and time-consuming. | **Compliance Report**: Detailed assessment of the AI feature's compliance with relevant regulations and standards.                            | **RAG Database and Compliance Tools**: Create a Retrieval Augmented Generation (RAG) database of compliance requirements for AI, along with tools for auto-evaluating the PRD against these requirements and generating compliance reports. |
-| 6    | **Develop GTM Plan in 1 week**  | **Market Readiness**: Ensuring the market is prepared and the product meets customer expectations can be challenging.              | **GTM Plan**: Detailed strategy outlining marketing, sales, and customer support plans for the AI feature launch.                             | **GTM Resources and Insights**: Share market research, user personas, best practices for AI product launches, and tools for tracking market readiness and customer feedback.                                                                |
-| 7    | **Launch AI Feature in 1 day**  | **Operational Overheads**: Continuous monitoring and maintenance add to operational efforts.                                       | **Deployed AI Feature**: The AI feature is live in production, with systems in place for monitoring performance and collecting user feedback. | **Monitoring and Feedback Tools**: Implement monitoring systems, feedback loops, and dashboards to track performance metrics, user engagement, and identify areas for improvement.                                                          |
+| KPI                                                | Bottleneck                                                                                                                                                   | Actions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Write PRD in 1 day                                 | Lack of competitor awareness and AI expertise slows opportunity identification                                                                               | 1. Searchable, updated competitor and client database of AI features <br> 2. Custom GPT for rapid ideation and document formatting                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Develop prototype in 1 week                        | Lack of tooling slows conversion from idea to PoC                                                                                                            | 1. Curated, ready-to-go notebooks with composable components and pipelines to bootstrap a project <br> 2. [Optional] Buy a low/no-code service to help non-engineers prototype                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Create pitch in 1 day; Approval decision in 1 hour | Lack of standard templates, explicit criteria and quick feedback slows generation and evaluation                                                             | 1. AI-powered templates to auto-construct pitches and provide instant feedback for human editing <br> 2. Automated evaluation reports and pipelines to expedite committee approval <br> 3. Access to platform team experts for direct consultation and recommendations                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Build AI feature in 6 weeks                        | Setting up infrastructure, experimenting, and applying advanced techniques takes too much time                                                               | 1. Maintain a quick-start list of managed services infrastructure for zero friction project setup and deployment <br> 2. Provide an out-of-the-box observability platform for automatic monitoring and evaluations <br> 3. Abstract technical infrastructure, design patterns and best practices around advanced features like RAG, Fine Tuning, Agent, Multimodal <br> 4. Synthetic data pipelines for bootstrapping teams working with confidential data <br> 5. Dedicated platform resources (e.g. engineers, designer) pairing with product teams to accelerate delivery <br> 6. Provide UI/UX reviews, advice, starter Figma web components or AI design systems informed by best practices <br> 7. Maintain a risk and safety register for the feature informed by AI best practices and frameworks |
+| Compliance check in 1 day                          | Staying updated with regulatory frameworks, assessing their impact on product features, and preparing external documents is time-consuming                   | 1. Maintain a searchable, updated compliance directory to track and update local, state, national, and international regulatory frameworks <br> 2. Use RAG-based rubric evaluation for feature compliance <br> 3. Automated drafting of approval request letters to appropriate stakeholders                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| GTM in 1 week                                      | Lack of marketing resources and inconsistent AI messaging across teams delays launches                                                                       | 1. Automate release notes <br> 2. Draft user documents pack, including how-to guides and support FAQs <br> 3. Generate draft marketing messages, collateral and standard company templates/assets                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Post-Launch Maintenance for 3 months               | Maintaining AI features post-launch is resource-intensive, requiring continuous monitoring and a different approach for generative AI's probabilistic nature | 1. Dedicated hypercare by AI platform team to handle bugs, fixes and updates for 3 months post launch <br> 2. Set up automated monitoring systems to track AI performance and detect issues early <br> 3. Providing a BAU service request model for ongoing/complex issues                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 
+## Wartime
+
+We need a wartime platform squad to stay ahead. Wartime squads move fast, cut red tape, and prioritise impact. They focus on speed and value, driving the company forward by launching AI features quickly. Leaders make tough calls to keep projects on track.
+
+This team works seamlessly with product and business teams, enabling them and ruthlessly prioritising the best ideas. They eliminate bureaucracy, integrate new AI tools swiftly, and handle issues head-on. They ensure compliance and safety standards are met without slowing down progress.
+
+Unlike peacetime squads that maintain stability, wartime squads thrive in urgency. They deliver immediate results and keep the company ahead of competitors. Quick decisions and a relentless focus on outcomes make them essential for AI leadership and rapid innovation.
+
+## FAQ
+
+#### Role, Responsibilities, and Collaboration
+
+**Q:** What is the primary role of the AI platform team in a B2B SaaS company?
+
+**A:** The AI platform team's main role is to integrate AI across products and services quickly, support product teams, and speed up AI feature releases.
+
+**Q:** How does the AI platform team help business teams automate workflows?
+
+**A:** The platform team implements AI tools for automation, trains business teams, and integrates AI solutions into existing workflows.
+
+**Q:** How does the platform team handle both innovation and BAU (Business As Usual) tasks simultaneously?
+
+**A:** The platform team manages both by dedicating 70% of their resources to innovation and 30% to BAU tasks. Given the newness of the platform team, this balance might shift as the environment and products mature, allowing for adjustments based on evolving needs and priorities.
+
+**Q:** What is the role of the AI platform team in shaping organizational culture?
+
+**A:** The platform team fosters a culture of AI innovation and responsibility, encouraging AI fluency and enthusiasm across the organization through training and collaboration.
+
+**Q:** Do AI platform teams lack the domain knowledge of specific products, making them unsuitable substitutes for product-specific engineering teams?
+
+**A:** Yes, AI platform teams lack product-specific knowledge. They're support, not a substitute. To fix this, have the platform team act as a drop-in task force during critical phases, integrating AI while the product squad provides domain expertise. Alternatively, second selected product engineers from a squad to the platform team for a brief period - e.g. six weeks - to share domain knowledge and tailor AI solutions effectively.
+
+**Q:** What kind of support does the platform team offer during the prototyping phase?
+
+**A:** The platform team provides ready-to-use notebooks, components, managed services, and optional low/no-code tools to help non-engineers prototype quickly.
+
+**Q:** How does the platform team facilitate collaboration with third-party AI vendors?
+
+**A:** The platform team vets and integrates third-party AI services, provides documentation, and works with product teams to ensure seamless integration.
+
+**Q:** What happens if product teams don’t cooperate with the platform team, or vice versa?
+
+**A:** The platform team is an optional enabler, offering a range of services as needed. For approved projects with embedded engineers, cooperation is mandatory and ensured through formal agreements endorsed by managers and executives. These agreements include clear requirements, conditions, SLAs, and deliverables, ensuring alignment and accountability, which are critical for achieving company and user outcomes.
+
+**Q:** Will product engineers miss out on learning AI if platform engineers handle the builds, and will knowledge leave with them?
+
+**A:** No. Platform engineers work closely with product teams, provide hands-on training, and keep detailed documentation. Product engineers involved in builds will teach their squad, ensuring everyone learns and retains AI skills.
+
+**Q:** If I don't get approved to work with the platform team, does my AI journey end?
+
+**A:** No. You can still use self-service tools, resources, and training from the platform team. Product teams keep decision-making autonomy and can build AI features on their own. Approved projects get embedded engineers and time-bound support, but this doesn't remove always-available features or limit reapplying for more support.
+
+#### Metrics and Success
+
+**Q:** How do we measure the platform team's success?
+
+**A:** We use practical metrics: time-to-market for AI features, the number of successful AI launches, user feedback, and AI feature funnel conversion from ideas to approved projects. This ensures our efforts provide real benefits to users and improve company results.
+
+**Q:** How is the success of the AI platform team incentivized and rewarded?
+
+**A:** Success is measured by AI launches and user feedback. Rewards include performance bonuses, public recognition, and career advancement opportunities.
+
+**Q:** How do we measure the success of the AI features?
+
+**A:** The product team tracks user adoption, feedback, performance, and ROI. The platform team helps with tools for monitoring, synthetic data, and risk management. They also provide training, support, and regular reviews to ensure AI features deliver real value and meet business goals.
+
+#### Compliance and Security
+
+**Q:** How does the platform team ensure compliance with AI regulations?
+
+**A:** The platform team maintains a compliance directory, uses a RAG-based rubric for evaluations, and automates approval request letters to meet regulatory standards.
+
+**Q:** How does the platform team handle data privacy and security concerns?
+
+**A:** The platform team enforces strict data privacy protocols, uses synthetic data for confidential information, and maintains a risk and safety register.
+
+#### Risk Management
+
+**Q:** How does the platform team approach risk management for AI features?
+
+**A:** The platform team manages risks by maintaining a risk register, using feature flags, setting up rollback procedures, and conducting thorough testing.
+
+**Q:** What if there's a critical issue post-launch that the product team or platform team can't handle?
+
+**A:** We build AI features with feature flags, allowing us to disable them if needed. The platform team maintains a risk and safety register and ensures quick rollback provisions at the code level. If a critical issue arises that the product team or platform team can't manage, we activate existing mechanisms for P1 incidents, including customer communications by senior engineers, managers, and support teams.
+
+#### Resource Management and Challenges
+
+**Q:** What are the main challenges the platform team might face, and how do they address them?
+
+**A:** The platform team faces challenges like limited resources and cross-department collaboration, which they address through prioritization, continuous learning, and clear communication.
+
+**Q:** What if the platform team has too many critical projects to work on?
+
+**A:** Managers and executives decide which projects to prioritize, based on the platform team's advice. We have a set ratio of resources to projects to manage capacity. This way, the most critical work gets done first.
+
+**Q:** How do we handle the risk of burnout and ensure sustainability if the platform team is constantly working in high-pressure sprints?
+
+**A:** The platform team operates in a high-pressure environment with a clear mission to accelerate AI feature launches. To manage burnout, we maintain a 70-30 split between innovation and BAU tasks, and rotate team members between high-intensity projects and less demanding tasks. We recruit team members with this demanding mission in mind from the outset, ensuring they are prepared for the challenges and committed to delivering high performance.
+
+#### Continuous Improvement and Maintenance
+
+**Q:** In what ways does the platform team accelerate the AI feature development process?
+
+**A:** The platform team speeds up development by providing managed infrastructure, observability tools, design patterns, dedicated support, and task automation.
+
+**Q:** What steps does the platform team take for post-launch support and maintenance of AI features?
+
+**A:** Post-launch, the platform team provides three months of hypercare, automated monitoring, and a BAU service request model to keep AI features running smoothly.
+
+**Q:** What happens if there's a V2 feature idea after launch and hypercare?
+
+**A:** If a V2 feature idea arises post-launch and hypercare, it goes back through the standard stage gates. For already launched products, we have an accelerated stage gate process. Due to resource limits, product teams can also proceed independently or use a day expertise consultancy model outside of the six-week drop-in period for additional support.
+
+**Part of the role is buy versus build**
 The list below sequences and categorises a core set of ideas for new platform teams to tackle.
 
 - deal desk rubric to select projects, cst hem etc.

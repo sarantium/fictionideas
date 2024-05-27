@@ -36,3 +36,86 @@ https://olickel.com/object-oriented-large-language-models
 ## Cameron Wolfe
 
 Many useful ideas from his writings around prompt engineering and RAG https://cameronrwolfe.substack.com/
+
+## Reflection
+
+The reflection Tool at its simplest is about thinking about what was done and trying to improve it. Evaluation is a subset of reflection. or maybe the other way around. Here's a great list of evaluation/observability tooling available
+
+- https://ianww.com/llm-tools
+- tinyllm seems particularly interesting to me
+
+I'd also want to consider and think about logfire from Pydantic :
+
+- https://pydantic.dev/logfire
+- https://python.useinstructor.com/blog/2024/05/01/instructor-logfire/
+
+An evaluation paper
+
+- https://arxiv.org/abs/2404.12272
+
+## Instructor use cases I want to explore
+
+- https://x.com/ddebowczyk/status/1792105564966662523
+- https://x.com/jxnlco/status/1788558053094117691 [Some rag thing I need to review]
+
+- In the docs there is a create iterable method instead of Iterable[T] - https://github.com/jxnl/instructor?tab=readme-ov-file#streaming-iterables-create_iterable
+
+## Other librarires I 'm thinking through
+
+- [Lumentis](https://github.com/hrishioa/lumentis)
+- [Marker](https://github.com/VikParuchuri/marker)
+
+## CSIRO links on Safety
+
+- https://research.csiro.au/ss/team/se4ai/responsible-ai-engineering/
+- https://research.csiro.au/ss/team/se4ai/
+
+## Routing [Probably more urgent that I read the Leah Post]
+
+- https://www.linkedin.com/pulse/how-create-good-ai-planner-agent-leah-bonser-mvrsf/?trackingId=nMqml7p%2BTVK2nhzyPLpsxQ%3D%3D
+
+- Note Leah also wrote a second post.
+
+## Jeremy Howard Stuff I need to read
+
+- https://www.youtube.com/watch?v=jkrNMKz9pWU
+- https://github.com/fastai/lm-hackers/blob/main/lm-hackers.ipynb
+- https://x.com/HamelHusain/status/1793319488731107718
+
+## LLama index router stuff
+
+- https://medium.com/aimonks/agentic-rag-with-llama-index-router-query-engine-01-381e83a418af
+- Have signed up to the course in deeplearning.ai
+
+## AI Product Strategy for portfolio
+
+- [AI Product Strategy](assets/AI_product_strategy.pdf)
+
+## Ton of awesome AI speakers
+
+https://x.com/HamelHusain/status/1792223793903276343
+
+## Prompt book coming out
+
+- https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/
+
+## Agent collusion
+
+https://arxiv.org/abs/2404.00806
+
+## Hamel Husain
+
+Consulting proposal from a meeting : https://gist.github.com/hamelsmu/ac72d18ee9d4cbd6a235a8e37a75f303
+
+## Australian safety standards
+
+- https://www.cyber.gov.au/resources-business-and-government/governance-and-user-education/artificial-intelligence/deploying-ai-systems-securely
+
+## Education
+
+https://towardsdatascience.com/ai-knocking-on-the-classrooms-door-87db39d00b94
+
+## GPT - Researcher
+
+- 1 : https://x.com/hu_yifei/status/1793751353308901394
+- 2 : https://github.com/assafelovic/gpt-researcher
