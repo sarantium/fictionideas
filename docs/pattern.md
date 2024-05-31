@@ -1,3 +1,24 @@
+## O'Reilly Article on prompting
+
+https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/
+
+## Evaluation links
+
+- https://hamel.dev/blog/posts/evals/
+- https://eugeneyan.com/writing/evals/
+
+Think I need a page just on evaluation
+
+## Prompting
+
+- https://eugeneyan.com/writing/prompting/
+
+## Goals
+
+- https://www.loom.com/share/d0ff7c0b17b34aa7b46f9537c5b25785?start_download=true
+
+I really like this idea of taking two companies and making the "Goals" [As I see it] relevant from one vendor to a potential client to help in sales calls
+
 ## Engineering
 
 Hrishi Olickel's iterative loop of Chat, Play, Loop, and Nest<sup>[6](https://youtu.be/gsO5V30h-lU?si=pxQ0X-p9iUYHlYXs)</sup> <sup>[7](https://youtu.be/8w0hUcQSDy8?si=6eAb4SqLy3B015Jd)</sup> guides alot of my thinking on how to build agentic workflows. In general, the build principles I follow are:
@@ -119,3 +140,31 @@ https://towardsdatascience.com/ai-knocking-on-the-classrooms-door-87db39d00b94
 
 - 1 : https://x.com/hu_yifei/status/1793751353308901394
 - 2 : https://github.com/assafelovic/gpt-researcher
+
+## Education
+
+- Google Education Paper Worth reading. Long and dense : https://storage.googleapis.com/deepmind-media/LearnLM/LearnLM_paper.pdf
+
+- Donald Clark Blog - https://donaldclarkplanb.blogspot.com/
+
+- https://www.ai-supremacy.com/p/ai-in-education-googles-learnlm-product
+
+## Shadow AI
+
+- this keeps coming up as a thing
+
+## Companies to watch
+
+- https://www.studyfetch.com/
+
+## Few shot tool use doesn't really work yet
+
+- https://research.google/blog/few-shot-tool-use-doesnt-really-work-yet/
+
+## Perplexity pages
+
+- https://www.perplexity.ai/hub/faq/what-is-perplexity-pages
+
+## Knowledge graphs
+
+- https://gradientflow.com/graphrag-design-patterns-challenges-recommendations/
