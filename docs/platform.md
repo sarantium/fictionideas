@@ -1,10 +1,24 @@
 ![Platform](assets/platform_1.webp)
 
+## Some additional notes
+
+- Ideation as a product for the platform team
+  - do a survey to assess/baseline ideation. Can also go directly to people. Ask LLM to help me create questions.
+  - market intelligence report include RAG on company Readytech as context in data
+  - extract messages
+- Evaluation is c
+
 Innovations are adopted quickly if they are easy to make, easy to use, fit existing patterns, and have visible results. Generative AI has abruptly changed the innovation landscape by accelerating the utility and availability of AI products and services.
 
 While the vast majority of consumers and companies do not make technology, they are actively searching for value in this space. Consequently, technology companies are trying to implement AI features that create value for their customers as fast as possible.
 
 The long tail of B2B SaaS companies has a unique set of challenges. Many of these companies have enterprise client traction and skilled development teams but lack extra capital and in-house AI/ML resources, making it hard to bootstrap production grade AI capabilities and features.
+
+## Some additional talks to incorporate
+
+- [genAI deserves a platform team](https://youtu.be/sPXwz4DWu0o?si=XoOo5ABnyHVoVyRJ)
+- https://www.madrona.com/the-rise-of-ai-agent-infrastructure/
+-
 
 ## Goals
 
