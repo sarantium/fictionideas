@@ -2,6 +2,28 @@
 
 ## Some additional notes
 
+- - evaluation https://docs.smith.langchain.com/concepts/evaluation . This along with Hamel husain is pretty good.
+
+- There is often 1 right way to do basic things (JD)
+
+  - one vendor for summarisation
+  - one vector database
+  - one way to get structured output and validation
+  - etc.
+
+- Karpathy notes on Apple via tweet 11/06/24
+  Actually, really liked the Apple Intelligence announcement. It must be a very exciting time at Apple as they layer AI on top of the entire OS. A few of the major themes.
+
+  -Step 1 Multimodal I/O. Enable text/audio/image/video capability, both read and write. These are the native human APIs, so to speak.
+  -Step 2 Agentic. Allow all parts of the OS and apps to inter-operate via "function calling"; kernel process LLM that can schedule and coordinate work across them given user queries.
+  -Step 3 Frictionless. Fully integrate these features in a highly frictionless, fast, "always on", and contextual way. No going around copy pasting information, prompt engineering, or etc. Adapt the UI accordingly.
+  -Step 4 Initiative. Don't perform a task given a prompt, anticipate the prompt, suggest, initiate.
+  -Step 5 Delegation hierarchy. Move as much intelligence as you can on device (Apple Silicon very helpful and well-suited), but allow optional dispatch of work to cloud.
+  -Step 6 Modularity. Allow the OS to access and support an entire and growing ecosystem of LLMs (e.g. ChatGPT announcement).
+  -Step 7 Privacy. <3
+
+  -We're quickly heading into a world where you can open up your phone and just say stuff. It talks back and it knows you. And it just works. Super exciting and as a user, quite looking forward to it.
+
 - Ideation as a product for the platform team
   - do a survey to assess/baseline ideation. Can also go directly to people. Ask LLM to help me create questions.
   - market intelligence report include RAG on company Readytech as context in data
