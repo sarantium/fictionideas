@@ -403,3 +403,11 @@ These examples illustrate how specific, detailed interactions with an LLM can tu
 ## Advancing to agents
 
 - https://www.youtube.com/watch?v=MXPYbjjyHXc
+
+## Prompt report taxonomy
+
+https://arxiv.org/abs/2406.06608
+
+## Really interesting infrastructure market map
+
+https://www.bvp.com/atlas/roadmap-ai-infrastructure
