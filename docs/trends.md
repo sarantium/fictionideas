@@ -4,18 +4,38 @@ Adding a table of companies I find interesting, starting with AI productivity fo
 
 Original source is here : https://x.com/omooretweets/status/1760000618557735289/photo/1
 
-| Company                                   | Category            | Notes                                                       | Star |
-| ----------------------------------------- | ------------------- | ----------------------------------------------------------- | ---- |
-| [Artisan](https://artisan.co/)            | Workflow automation | Sales                                                       |      |
-| [Automaited](https://www.automaited.com/) | Workflow automation | Workflow factory to build automations with no code visually | Y    |
-| [Automat](https://www.runautomat.com/)    | Workflow automation | Similar idea of record a process and automate it            |      |
-| [Keyflow](https://www.keyflow.space/)     | Workflow automation | Canvas builder                                              |      |
-| [Innkeeper AI](https://www.innkeeper.ai/) | Workflow automation | Hotel management automation. Domain specific                | Y    |
-| [Questflow](https://www.questflow.ai/)    | Workflow automation | Something about blockchain and agent orchestration          |      |
-| [Orby AI](https://www.orby.ai/platform)   |                     | Auto generates automations                                  | Y    |
-|                                           |                     |                                                             |      |
-|                                           |                     |                                                             |      |
-|                                           |                     |                                                             |      |
+Nice revised list of this source saving me time : https://app.dealroom.co/lists/46345
+
+| Company                                   | Category            | Notes                                                                     | Star |
+| ----------------------------------------- | ------------------- | ------------------------------------------------------------------------- | ---- |
+| [Artisan](https://artisan.co/)            | Workflow automation | Sales                                                                     |      |
+| [Automaited](https://www.automaited.com/) | Workflow automation | Workflow factory to build automations with no code visually               | Y    |
+| [Automat](https://www.runautomat.com/)    | Workflow automation | Similar idea of record a process and automate it                          |      |
+| [Keyflow](https://www.keyflow.space/)     | Workflow automation | Canvas builder                                                            |      |
+| [Innkeeper AI](https://www.innkeeper.ai/) | Workflow automation | Hotel management automation. Domain specific                              | \*   |
+| [Questflow](https://www.questflow.ai/)    | Workflow automation | Something about blockchain and agent orchestration                        |      |
+| [Orby AI](https://www.orby.ai/platform)   | Workflow automation | Auto generates automations                                                | Y    |
+| [Respell](https://www.respell.ai/)        | Workflow automation | Canvas builder for automations with AI. Interesting but we can do better. |      |
+| [Tennr](https://www.tennr.com/)           | Workflow automation | Medical practice specific. Nice initial screens                           | \*   |
+| [Gumloop](https://www.gumloop.com/)       | Workflow automation | Components built out.                                                     |      |
+| [Lutra](https://lutra.ai/)                | Workflow automation | Seems weakly conceived with no strong vision                              |      |
+| [Warpdrive](https://www.warpdrive.co/)    | Workflow automation | Desktop focused, well implemented and interesting auto workflow creation  | \*   |
+| [Luminai](https://www.luminai.com/)       | Workflow automation | Decent user interface                                                     | Y    |
+| [Paradigm](https://www.tryparadigm.ai/)   | Workflow automation | Just a landing page                                                       |      |
+| [BrainBase](https://usebrainbase.xyz/)    | Workflow automation | Just a landing page                                                       |      |
+| [Tika.ai](https://tika.ai/)               | Workflow automation | Just a landing page                                                       |      |
+| [Delpha](https://delpha.io/)              | Workflow automation | Interesting bit on deduplication                                          |      |
+| [Genius Voice](https://geniusvoice.ai/)   | Workflow automation | Boring chatbot                                                            |      |
+| [Timely](https://timelyapp.com/)          | Workflow automation | Time tracking and assignment is interesting                               |      |
+| [Spoke](https://www.spoke.ai/)            | Workflow automation | Just summarises slack only. A feature not a product.                      |      |
+|                                           |                     |                                                                           |      |
+|                                           |                     |                                                                           |      |
+|                                           |                     |                                                                           |      |
+|                                           |                     |                                                                           |      |
+|                                           |                     |                                                                           |      |
+|                                           |                     |                                                                           |      |
+|                                           |                     |                                                                           |      |
+|                                           |                     |                                                                           |      |
 
 ## Fourth Pass Notes
 

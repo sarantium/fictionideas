@@ -24,6 +24,7 @@
 - [O'Reilly Article on Prompting](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
 - [Eugen Yan on Prompting](https://eugeneyan.com/writing/prompting/)
 - [Andrew Ng on Prompting](https://www.deeplearning.ai/the-batch/issue-249/)
+- [So you think you can prompt](https://dipam44.medium.com/notes-from-so-you-think-you-can-prompt-64e21c47a837)
 
 ### Strategies
 
@@ -411,3 +412,32 @@ https://arxiv.org/abs/2406.06608
 ## Really interesting infrastructure market map
 
 https://www.bvp.com/atlas/roadmap-ai-infrastructure
+
+## AI regulation by Jeremy Howard
+
+https://www.answer.ai/posts/2024-06-11-os-ai.html
+
+## Langgraph
+
+- Explanation - https://www.youtube.com/watch?v=hvAPnpSfSGo
+
+## Really good podcast on agents by Harrison Chase
+
+https://www.youtube.com/watch?v=6XZLoW0-mPY&t
+
+## Spiral - BUsiness idea
+
+- https://www.youtube.com/watch?v=iZw5GHuR9IY
+- https://spiral.computer/
+
+# Notebooks
+
+https://youtu.be/-kdl04xqasY
+
+## Live podcast on o'reilly LLMs
+
+https://www.youtube.com/watch?v=c0gcsprsFig&t=2839s
+
+## Business Idea : Auto convert market map into a nice UI
+
+https://app.dealroom.co/lists/46345
