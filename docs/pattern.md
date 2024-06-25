@@ -441,3 +441,17 @@ https://www.youtube.com/watch?v=c0gcsprsFig&t=2839s
 ## Business Idea : Auto convert market map into a nice UI
 
 https://app.dealroom.co/lists/46345
+
+## Claudette :
+
+- https://www.youtube.com/watch?v=p_8Zk6HUCV8
+- https://www.answer.ai/posts/2024-06-23-claudette-src.html
+
+## Lance DB with instructor
+
+-https://x.com/Prashant_Dixit0/status/1804789578437722416
+
+## Australia COmpliance
+
+- https://www.itnews.com.au/news/data-and-digital-ministers-agree-to-national-ai-framework-609028
+- https://www.finance.gov.au/government/public-data/data-and-digital-ministers-meeting/national-framework-assurance-artificial-intelligence-government
