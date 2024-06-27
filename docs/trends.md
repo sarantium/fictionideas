@@ -1,28 +1,23 @@
-## Sixth Pass Notes
+AI narrows the gap between ideas and execution. It lowers skill requirements and barriers to entry, and promises value creation that is faster, cheaper and better. This will impact labour and capital allocation in SMBs, large enterprises and technology vendors.
 
-**Current Landscape**
-
-1.  AI narrows the gap between ideas and execution.
-    a. It lowers skill requirements and barriers to entry, and promises value creation that is faster, cheaper and better.
-    b. This will impact labour and capital allocation in SMBs, large enterprises and technology vendors.
-    c. While value creation is accelerating, it remains unclear which layer of the stack will benefit the most from value capture.
+While value creation is accelerating, it remains unclear which layer of the stack will benefit the most from value capture.
 
 !!! tip "Hypothesis 1"
 
-    Over 50% of value capture will reside in the generative AI **application layer**
+    70% of value capture will reside in the generative AI **application layer**
 
-2.  The current AI landscape can be split into B2C and B2B segments, tackling different challenges.
+The current AI landscape can be split into B2C and B2B segments, each tackling different challenges.
 
-| **Segments**       | **B2C**                               | **B2B**                                              |
-| ------------------ | ------------------------------------- | ---------------------------------------------------- |
-| **Value**          | Personalised, multimodal interactions | Reduces time and costs through workflow automation   |
-| **Metaphors**      | Products as dynamic conversations     | Digital assembly line: tireless and highly efficient |
-| **Opportunity**    | Instant, adaptive consumer interfaces | Domain specialised vertical solutions                |
-| **Solution Focus** | User experience                       | Operational efficiency                               |
+| Segments        | B2C                                   | B2B                                                  |
+| --------------- | ------------------------------------- | ---------------------------------------------------- |
+| **Value**       | Personalised, multimodal interactions | Reduces time and costs through workflow automation   |
+| **Metaphors**   | Products as dynamic conversations     | Digital assembly line: tireless and highly efficient |
+| **Opportunity** | Instant, adaptive consumer interfaces | Domain specialised vertical solutions                |
+| **Focus**       | User experience                       | Operational efficiency                               |
 
-B2B2C applications should follow the money, improving client automation before consumer experience because automation usually has a more direct impact on revenue and cost.
+B2B2C applications straddle both segments. Established products in this category should follow the money, prioritising efficiency over experience because automation benefits usually compound faster and have a more direct impact on revenue and cost.
 
-3. The following workflow patterns and timescales are emerging as trends in the market:
+The following workflow patterns and timescales are emerging as trends in the market, with extremely compressed iteration cycles becoming the norm:
 
 | No. | Timescale | Trend                        | Description                                                                  |
 | --- | --------- | ---------------------------- | ---------------------------------------------------------------------------- |
@@ -35,6 +30,10 @@ B2B2C applications should follow the money, improving client automation before c
 | 7   | Later     | Autonomy                     | Enables operations without human intervention                                |
 | 8   | Later     | Personalised interfaces      | Adapts workflows to individual user preferences, improving user experience   |
 | 9   | Later     | Agent economies              | Creates networks of interacting, automated agents                            |
+
+!!! tip "Hypothesis 2"
+
+    Vertical expansion with AI augmented, domain specific workflows is a scalable and durable competitive advantage
 
 4. Edtech Categories
 
@@ -52,6 +51,7 @@ B2B2C applications should follow the money, improving client automation before c
   - Can value be derived from non-deterministic outputs? Can hallucinations resolved? I think so.
   - What pricing models are going to work here : maybe a shift from monthly flat fee to usage based?
   - what does it mean that to advance we need to stay ahead of the regulatory curve
+  - compliance risk???
 
 ## Fifth Pass Notes
 
@@ -114,3 +114,41 @@ Nice revised list of this source saving me time : https://app.dealroom.co/lists/
 | [Poly](https://poly.ai/)                    | Agent Assistants    | Very impressive voice first agents                                                   | \*   |
 |                                             |                     |                                                                                      |      |
 |                                             |                     |                                                                                      |      |
+
+## Workflow Engines
+
+- a long list https://meirwah.github.io/awesome-workflow-engines/
+- Apache Airflow is the old guard
+- Dagster and Prefect are pythonic and seem easier, both with self hosted open source and paid hosted cloud
+- Kestra is language agnostic but a relative newcomer
+- AWS Glue and Azure data factory are primarily for ETL pipelines
+
+### Workflow Automation Vendor Evaluation Criteria
+
+| No. | Criteria          | Definition                                                 |
+| --- | ----------------- | ---------------------------------------------------------- |
+| 1   | **Velocity**      | Quick to set up, fast to iterate                           |
+| 2   | **Flexibility**   | Handles current (if-then) and future (AI) automation needs |
+| 3   | **Customisation** | Offers deep customisation and control for developers       |
+| 4   | **Ownership**     | Retains intellectual property within the company           |
+| 5   | **Reliability**   | Proven enterprise deployments and extensive support        |
+| 6   | **Cost**          | Affordable in setup and maintenance                        |
+
+https://dagster.io/vs => see this
+
+### Vendor Evaluation Based on Defined Criteria
+
+| Category                              | Vendor                       | Velocity | Flexibility | Customization | Ownership | Reliability | Cost     |
+| ------------------------------------- | ---------------------------- | -------- | ----------- | ------------- | --------- | ----------- | -------- |
+| **Advanced Workflow**                 | **Apache Airflow**           | High     | High        | High          | High      | High        | Moderate |
+|                                       | **Dagster**                  | Moderate | High        | High          | High      | Moderate    | Moderate |
+|                                       | **Prefect**                  | High     | High        | High          | High      | High        | Moderate |
+|                                       | **Kestra**                   | Moderate | Moderate    | Moderate      | High      | Low         | Low      |
+| **ETL Specialised**                   | **AWS Glue**                 | Low      | Moderate    | Low           | Low       | High        | High     |
+|                                       | **Azure Data Factory**       | Low      | Moderate    | Low           | Low       | High        | High     |
+| **No Code Automation**                | **Microsoft Power Automate** | Moderate | Low         | Moderate      | Low       | High        | Low      |
+|                                       | **Zapier**                   | High     | Moderate    | Low           | Low       | Moderate    | Low      |
+| **AI-Native**                         | **UiPath**                   | High     | High        | Moderate      | Moderate  | High        | Moderate |
+|                                       | **Relevance AI**             | High     | High        | Moderate      | Moderate  | Moderate    | Moderate |
+| **Business Process Management (BPM)** | **Appian**                   | Moderate | High        | High          | High      | High        | High     |
+|                                       | **Pega**                     | Moderate | High        | High          | High      | High        | High     |
