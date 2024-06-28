@@ -1,3 +1,23 @@
+## Fifth Pass Notes
+
+Adding a table of companies I find interesting, starting with AI productivity for SMBs
+
+Original source is here : https://x.com/omooretweets/status/1760000618557735289/photo/1
+
+Nice revised list of this source saving me time : https://app.dealroom.co/lists/46345
+
+- a long list https://meirwah.github.io/awesome-workflow-engines/
+
+https://dagster.io/vs => see this
+
+4. Challenges
+
+- Uncertainty
+  - Can value be derived from non-deterministic outputs? Can hallucinations resolved? I think so.
+  - What pricing models are going to work here : maybe a shift from monthly flat fee to usage based?
+  - what does it mean that to advance we need to stay ahead of the regulatory curve
+  - compliance risk???
+
 ## Sixth Pass Notes
 
 **Current Landscape**
