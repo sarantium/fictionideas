@@ -103,27 +103,35 @@ The workflow startup sector is booming with AI-first players:
 
 ## Education Management
 
-Education management is a small category in today's edtech AI landscape, with learning and student experience innovation dominating market maps. In a survey of 285 companies, only a negligible number fell in this area, with relatively minor investments to date.
+Education management is a small category in today's edtech AI landscape, with learning and student experience innovation dominating market maps.
 
-**Source:** https://www.reachcapital.com/2023/09/11/pipeline-perspectives-trends-from-280-generative-ai-edtech-tools/
+### Education Market Map 1
+
+In a survey of 285 companies, only a negligible number fell in this area, with relatively minor investments to date.
+
+[Source](https://www.reachcapital.com/2023/09/11/pipeline-perspectives-trends-from-280-generative-ai-edtech-tools/)
 
 ![Education Market Table 1](assets/education_map_2.png)
 ![Education Market Table 1](assets/education_map_3.png)
 ![Education Market Table 1](assets/education_map_4.png)
 
-Other maps reflect the same trend.
+### Education Market Map 2
 
-**Source:** https://medium.com/@LaurenceHolt/a-map-of-generative-ai-for-education-6598e85a172e
+[Source](https://medium.com/@LaurenceHolt/a-map-of-generative-ai-for-education-6598e85a172e)
 
 ![Education Market Map](assets/education_map_1.webp)
 
+### Legal Market Map
+
 While the focus on automation has been limited - and therein lies the opportunity - looking at related and slightly more mature domains such as AI in legal tech demonstrate that all kinds of automation and workflow improvements dominate the sector :
 
-**Source:** https://www.battery.com/blog/the-new-code-of-law/
+[Source](https://www.battery.com/blog/the-new-code-of-law/)
 
 ![LAW MARKET MAP 1](assets/law_market_map_1.jpg)
 
-The maturity of AI in legaltech space is clear especially when considering that even established players like [LexisNexis](https://www.lexisnexis.com/en-us/products/lexis-plus-ai.page) have advanced automation features in production already. IT Compliance is also an area of advanced, domain specific AI automation in which alot of opportunity is emerging: [6clicks](https://www.6clicks.com/),
+The maturity of AI in legaltech space is clear especially when considering that even established players like [LexisNexis](https://www.lexisnexis.com/en-us/products/lexis-plus-ai.page) have advanced automation features in production already. IT Compliance is also an area of advanced, domain specific AI automation in which alot of opportunity is emerging: [6clicks](https://www.6clicks.com/)
+
+### Edtech Opportunity
 
 !!! tip "Hypothesis 3"
 
@@ -187,14 +195,12 @@ Buying workflow automation tools, should start with the following set of evaluat
 
     Adopt an orchestration framework as the foundation for automation and workflows
 
-## General Sources
+## Sources
 
 1. [Consumer abundance agenda](https://gamma.app/docs/a16z-Consumer-Abundance-Agenda-ieotbnzbxj81biu?mode=doc)
 2. [Agent AI Infrastructure](https://www.madrona.com/the-rise-of-ai-agent-infrastructure/)
 3. [Market Map of productivity tools](https://x.com/omooretweets/status/1760000618557735289)
-4. B2B AI Apps:
-   - [Part 1](https://a16z.com/for-b2b-generative-ai-apps-is-less-more/)
-   - [Part 2](https://a16z.com/owning-the-workflow-in-b2b-ai-apps/)
+4. [B2B AI Apps Part 1](https://a16z.com/for-b2b-generative-ai-apps-is-less-more/)
 5. [AI Voice Agents](https://gamma.app/embed/a16z-Real-Time-Conversational-Voice-AI--m3v486p98gt7jol?mode=doc)
 6. [Prosumer Workflows](https://a16z.com/the-future-of-prosumer-the-rise-of-ai-native-workflows/)
 7. [Top 100 Consumer Gen AI Apps](https://a16z.com/100-gen-ai-apps/)
@@ -207,3 +213,4 @@ Buying workflow automation tools, should start with the following set of evaluat
 14. [AI Agent Design Pattern Catalogue](https://arxiv.org/abs/2405.10467)
 15. [AI Education Map](https://www.linkedin.com/posts/ann-education_andreessen-horowitz-has-developed-a-market-activity-7165339048004239360-puCR?utm_source=share&utm_medium=member_desktop)
 16. [AI Companionship](https://x.com/venturetwins/status/1760702016089993345)
+17. [B2B AI Apps Part 2](https://a16z.com/owning-the-workflow-in-b2b-ai-apps/)
